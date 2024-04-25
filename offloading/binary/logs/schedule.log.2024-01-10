@@ -1,0 +1,438 @@
+2024-01-10 14:34:19 [main] [utils.Formula] [INFO] - ========================= 计算任务花费时间 =========================
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ----------1066.5649332947924----------
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ----------1445.5484237237924----------
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ----------19.23076923076923----------
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ----------1051.2631492895212----------
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ----------1033.5212138056502----------
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ----------12.345679012345679----------
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ----------1232.5955169880967----------
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ----------84.00100938445388----------
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ----------1163.7087551822942----------
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ----------1489.9107682989852----------
+2024-01-10 14:34:19 [main] [utils.Formula] [INFO] - ========================= 计算任务满意度List =========================
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++8.968871034878124++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++8.772250729531947++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++9.363430020045127++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++8.976111583237198++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++8.984443143200343++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++9.365445196807313++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++8.886938647824275++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++9.344156525331902++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++8.921694672161333++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++8.746910318976122++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++324900.0++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++90000.0++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++270400.0++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++40000.0++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++96100.0++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++656100.0++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++462400.0++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++792100.0++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++1000000.0++++++
+2024-01-10 14:34:19 [main] [TestModule] [INFO] - ++++++372100.0++++++
+2024-01-10 14:35:57 [main] [utils.Formula] [INFO] - ========================= 计算任务花费时间 =========================
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ----------1013.027855171874----------
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ----------147.47179854449527----------
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ----------63.561401750486155----------
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ----------1209.1278360503295----------
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ----------1356.1856642225875----------
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ----------232.4131890030303----------
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ----------1146.334719846555----------
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ----------1152.1769688224733----------
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ----------1358.9065349012049----------
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ----------146.45839234321718----------
+2024-01-10 14:35:57 [main] [utils.Formula] [INFO] - ========================= 计算任务满意度List =========================
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ++++++8.993982417637344++++++
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ++++++9.324703716303674++++++
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ++++++9.350300877270517++++++
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ++++++8.898903030854498++++++
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ++++++8.821750856194233++++++
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ++++++9.29776473074593++++++
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ++++++8.930287812227371++++++
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ++++++8.927405924581079++++++
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ++++++8.820273576143283++++++
+2024-01-10 14:35:57 [main] [TestModule] [INFO] - ++++++9.32501879733977++++++
+2024-01-10 14:35:57 [main] [utils.Formula] [INFO] - ==================== 计算任务总能耗 ===================
+2024-01-10 14:41:37 [main] [utils.Formula] [INFO] - ========================= 计算任务花费时间 =========================
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ----------1573.5646859293724----------
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ----------1124.9042518871047----------
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ----------1256.7723837552367----------
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ----------65.9411582001791----------
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ----------1264.6959110896728----------
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ----------1300.9499442294687----------
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ----------139.34178226895062----------
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ----------1332.7681260476504----------
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ----------1093.748984405689----------
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ----------1050.0981907548953----------
+2024-01-10 14:41:37 [main] [utils.Formula] [INFO] - ========================= 计算任务满意度List =========================
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ++++++8.697694312653038++++++
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ++++++8.940792980140646++++++
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ++++++8.874476734255481++++++
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ++++++9.349588469784141++++++
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ++++++8.870362288743726++++++
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ++++++8.85134399104236++++++
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ++++++9.327227305799974++++++
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ++++++8.834389032359548++++++
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ++++++8.955881485352176++++++
+2024-01-10 14:41:37 [main] [TestModule] [INFO] - ++++++8.97666073488487++++++
+2024-01-10 14:41:37 [main] [utils.Formula] [INFO] - ==================== 计算任务总能耗 ===================
+2024-01-10 14:43:23 [main] [utils.Formula] [INFO] - ========================= 计算任务花费时间 =========================
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ----------1140.3974016712918----------
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ----------1135.7281030210377----------
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ----------1055.9455434372755----------
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ----------1012.3742604006321----------
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ----------1017.3921815475856----------
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ----------1019.4449674713392----------
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ----------1096.2522795300122----------
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ----------1127.3031945961293----------
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ----------1020.1310738178229----------
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ----------1514.0879550179714----------
+2024-01-10 14:43:23 [main] [utils.Formula] [INFO] - ========================= 计算任务满意度List =========================
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++8.933208662902533++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++8.935500110716593++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++8.97390136780927++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++8.994285174828043++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++8.991958443391802++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++8.991005047938517++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++8.954677121011404++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++8.939622170398525++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++8.9906861918407++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++8.732880451638986++++++
+2024-01-10 14:43:23 [main] [utils.Formula] [INFO] - ==================== 计算任务总能耗 ===================
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++7415.397401671292++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++177511.91857921152++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++385439.8165111792++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++811001.2631492895++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++385401.26314928953++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++303501.26314928953++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++161071.25227953002++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++423611.9185792115++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++281901.26314928953++++++
+2024-01-10 14:43:23 [main] [TestModule] [INFO] - ++++++161489.08795501798++++++
+2024-01-10 14:45:43 [main] [utils.Formula] [INFO] - ========================= 计算任务花费时间 =========================
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ----------230.39587883302192----------
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ----------1065.9405816188682----------
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ----------225.23335792785713----------
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ----------1444.2812987448694----------
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ----------10.1010101010101----------
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ----------1188.5251388641248----------
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ----------1144.6476538530746----------
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ----------1387.5092090698486----------
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ----------1438.07782479946----------
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ----------1106.0608949925256----------
+2024-01-10 14:45:43 [main] [utils.Formula] [INFO] - ========================= 计算任务满意度List =========================
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++9.298416808350494++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++8.969167467175035++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++9.300082791228322++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++8.772966952287367++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++9.36610080242196++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++8.909300716668115++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++8.931118573042934++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++8.804631404858442++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++8.776467344483422++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++8.949944681411269++++++
+2024-01-10 14:45:43 [main] [utils.Formula] [INFO] - ==================== 计算任务总能耗 ===================
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++757130.9376898791++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++723554.1758757365++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++476332.86648285954++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++69005.81976028332++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++980100.0++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++79552.81085314984++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++641132.147653853++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++1954.1758757365153++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++97505.81976028332++++++
+2024-01-10 14:45:43 [main] [TestModule] [INFO] - ++++++17929.13781806945++++++
+2024-01-10 14:47:02 [main] [utils.Formula] [INFO] - ========================= 计算任务花费时间 =========================
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ----------1122.1561972814222----------
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ----------1574.7976856485127----------
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ----------1016.4146644410362----------
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ----------100.0----------
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ----------1499.7976856485127----------
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ----------1399.4685334536414----------
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ----------50.0----------
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ----------1256.3128163380761----------
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ----------1577.891246006683----------
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ----------1187.9023549308306----------
+2024-01-10 14:47:02 [main] [utils.Formula] [INFO] - ========================= 计算任务满意度List =========================
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++8.942132586240618++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++8.696954630900585++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++8.99241212454575++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++9.339306551992404++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++8.741191875817904++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++8.798029782862631++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++9.354345770965345++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++8.87471491323779++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++8.695096941050767++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++8.909613487204757++++++
+2024-01-10 14:47:02 [main] [utils.Formula] [INFO] - ==================== 计算任务总能耗 ===================
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++109991.8531669784++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++3874.797685648513++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++436601.26314928953++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++10000.0++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++7774.797685648513++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++130971.69075567587++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++40000.0++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++723744.5481104557++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++69139.42970754515++++++
+2024-01-10 14:47:02 [main] [TestModule] [INFO] - ++++++74050.8653178938++++++
+2024-01-10 15:00:11 [main] [utils.Formula] [INFO] - ========================= 计算任务花费时间 =========================
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ----------100.46091594078494----------
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ----------1126.2631492895212----------
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ----------1638.4046123193093----------
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ----------1402.149915056449----------
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ----------1596.7379456526428----------
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ----------1120.835668106081----------
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ----------1048.471270309901----------
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ----------1231.3492238808942----------
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ----------45.45454545454545----------
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ----------1172.960500116587----------
+2024-01-10 15:00:11 [main] [utils.Formula] [INFO] - ========================= 计算任务满意度List =========================
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++4.251399983237664++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++3.9585202484763107++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++3.7718677525275632++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++3.8618011418781877++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++3.7882294740402465++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++3.9603381655604313++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++3.9842753486041635++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++3.9226886543906283++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++4.264537943316775++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++3.9427472089855344++++++
+2024-01-10 15:00:11 [main] [utils.Formula] [INFO] - ==================== 计算任务总能耗 ===================
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++52967.15033259553++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++7401.263149289521++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++15955.071278985975++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++690290.1017222854++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++59155.071278985975++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++251100.83566810607++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++884637.8329724376++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++361214.6825572142++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++48400.0++++++
+2024-01-10 15:00:11 [main] [TestModule] [INFO] - ++++++303654.77868193475++++++
+2024-01-10 15:10:32 [main] [TestSchedule] [INFO] - TestSchedule ===> 测试PSO算法........
+2024-01-10 16:28:40 [main] [TestModule] [INFO] - TestSchedule ===> 测试 GA algorithm .......
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 1: Best Fitness = 0.98867, Chromosome = [0, 7, 5, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 2: Best Fitness = 0.94076, Chromosome = [0, 7, 5, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 3: Best Fitness = 0.79188, Chromosome = [0, 7, 5, 6, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 4: Best Fitness = 0.94155, Chromosome = [0, 7, 5, 6, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 5: Best Fitness = 0.89557, Chromosome = [0, 7, 5, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 6: Best Fitness = 0.99998, Chromosome = [0, 7, 5, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 7: Best Fitness = 0.77332, Chromosome = [0, 7, 5, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 8: Best Fitness = 0.0, Chromosome = [0, 7, 5, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 9: Best Fitness = 0.97823, Chromosome = [0, 7, 5, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 10: Best Fitness = 0.37756, Chromosome = [0, 7, 5, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 11: Best Fitness = 0.88997, Chromosome = [0, 7, 5, -1, 0, -1, 1, 6, 9, 9]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 12: Best Fitness = 0.87515, Chromosome = [0, 7, 9, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 13: Best Fitness = 0.61165, Chromosome = [0, 7, 5, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 14: Best Fitness = 0.97823, Chromosome = [0, 7, 9, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 15: Best Fitness = 0.93681, Chromosome = [0, 0, 5, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 16: Best Fitness = 0.73982, Chromosome = [0, 7, 5, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 17: Best Fitness = 0.83957, Chromosome = [0, 7, 9, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 18: Best Fitness = 0.59191, Chromosome = [0, 7, 9, 0, 0, -1, 1, 6, 6, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 19: Best Fitness = 0.94117, Chromosome = [0, 7, 5, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 20: Best Fitness = 0.95489, Chromosome = [0, 7, 9, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 21: Best Fitness = 0.7631, Chromosome = [0, 7, 9, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 22: Best Fitness = 0.95013, Chromosome = [0, 7, 9, -1, 0, 6, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 23: Best Fitness = 0.98894, Chromosome = [0, 7, 9, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 24: Best Fitness = 0.95302, Chromosome = [0, 7, 9, -1, 6, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 25: Best Fitness = 0.91139, Chromosome = [0, 7, 9, -1, 0, 6, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 26: Best Fitness = 0.97554, Chromosome = [0, 7, 9, -1, 6, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 27: Best Fitness = 0.83064, Chromosome = [0, 7, 9, -1, 6, -1, 1, 6, 4, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 28: Best Fitness = 0.83296, Chromosome = [0, 7, 9, -1, 6, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 29: Best Fitness = 0.84926, Chromosome = [0, 7, 9, -1, 6, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 30: Best Fitness = 0.58131, Chromosome = [0, 7, 9, -1, 6, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 31: Best Fitness = 0.98866, Chromosome = [0, 7, 9, -1, 6, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 32: Best Fitness = 0.68581, Chromosome = [0, 7, 9, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 33: Best Fitness = 0.0, Chromosome = [0, 7, 9, -1, 6, -1, 1, 6, 4, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 34: Best Fitness = 0.94422, Chromosome = [0, 7, 9, -1, 0, -1, 1, 6, 9, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 35: Best Fitness = 0.92943, Chromosome = [0, 7, 9, -1, 0, -1, 1, 6, 4, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 36: Best Fitness = 0.92153, Chromosome = [0, 7, 9, -1, 6, -1, 2, 6, 4, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 37: Best Fitness = 0.55568, Chromosome = [0, 7, 9, -1, 9, -1, 1, 6, 4, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 38: Best Fitness = 0.78892, Chromosome = [0, 7, 9, -1, 6, -1, 1, 6, 1, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 39: Best Fitness = 0.93864, Chromosome = [0, 7, 9, -1, 0, -1, 2, 6, 4, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 40: Best Fitness = 0.9525, Chromosome = [0, 7, 9, -1, 6, -1, 1, 6, 4, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 41: Best Fitness = 0.98829, Chromosome = [0, 7, 9, -1, 0, -1, 1, 6, 4, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 42: Best Fitness = 0.57635, Chromosome = [0, 7, 9, -1, 0, -1, 1, 6, 4, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 43: Best Fitness = 0.97088, Chromosome = [0, 7, 9, -1, 0, -1, 1, 6, 4, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 44: Best Fitness = 0.73129, Chromosome = [0, 7, 9, -1, 0, -1, 1, 6, 4, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 45: Best Fitness = 0.62589, Chromosome = [0, 7, 3, -1, 6, -1, 1, 6, 4, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 46: Best Fitness = 0.12238, Chromosome = [0, 7, 9, -1, 0, -1, 1, 6, 4, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 47: Best Fitness = 0.95851, Chromosome = [0, 7, 9, -1, 0, -1, 1, 6, 4, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 48: Best Fitness = 0.68382, Chromosome = [0, 7, 9, -1, 0, -1, 1, 6, 4, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 49: Best Fitness = 0.93977, Chromosome = [0, 7, 9, -1, 0, -1, 1, 9, 4, 0]
+2024-01-10 16:28:40 [main] [unload_decision.GA_01] [INFO] - Generation 50: Best Fitness = 0.79588, Chromosome = [0, 7, 9, -1, 0, -1, 1, 6, 4, 0]
+2024-01-10 16:28:40 [main] [TestModule] [INFO] - GA 当前最优染色体: [0, 7, 9, -1, 0, -1, 1, 6, 4, 0]
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - TestSchedule ===> 测试 GA algorithm .......
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 1: Best Fitness = 0.67645, Chromosome = [4, 3, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 2: Best Fitness = 0.0, Chromosome = [4, 3, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 3: Best Fitness = 0.81716, Chromosome = [4, 3, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 4: Best Fitness = 0.65908, Chromosome = [4, 3, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 5: Best Fitness = 0.79301, Chromosome = [4, 5, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 6: Best Fitness = 0.99317, Chromosome = [4, 3, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 7: Best Fitness = 0.80918, Chromosome = [4, 1, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 8: Best Fitness = 0.74939, Chromosome = [4, 3, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 9: Best Fitness = 0.0, Chromosome = [4, 3, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 10: Best Fitness = 0.7196, Chromosome = [4, 3, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 11: Best Fitness = 0.81537, Chromosome = [4, 3, 1, 6, 7, 2, -1, 8, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 12: Best Fitness = 0.98685, Chromosome = [4, 3, 2, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 13: Best Fitness = 0.98285, Chromosome = [1, 3, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 14: Best Fitness = 0.67926, Chromosome = [1, 3, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 15: Best Fitness = 0.81172, Chromosome = [4, 3, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 16: Best Fitness = 0.90463, Chromosome = [1, 3, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 17: Best Fitness = 0.53438, Chromosome = [1, 1, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 18: Best Fitness = 0.89516, Chromosome = [4, 3, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 19: Best Fitness = 0.86847, Chromosome = [1, 3, 1, 2, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 20: Best Fitness = 0.97105, Chromosome = [1, 3, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 21: Best Fitness = 0.0, Chromosome = [1, 3, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 22: Best Fitness = 0.71035, Chromosome = [4, 3, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 23: Best Fitness = 0.93783, Chromosome = [1, 3, 1, 6, 7, 0, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 24: Best Fitness = 0.96611, Chromosome = [1, 3, 1, 6, 7, 2, -1, 8, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 25: Best Fitness = 0.85077, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 26: Best Fitness = 0.84558, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 27: Best Fitness = 0.97917, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 28: Best Fitness = 0.88206, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 29: Best Fitness = 0.8547, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 30: Best Fitness = 0.86835, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 31: Best Fitness = 0.94122, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 32: Best Fitness = 0.91959, Chromosome = [4, 0, 1, 6, 7, 3, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 33: Best Fitness = 0.99642, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 34: Best Fitness = 0.93477, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 35: Best Fitness = 0.9034, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 36: Best Fitness = 0.85032, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 37: Best Fitness = 0.89462, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 38: Best Fitness = 0.0, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 39: Best Fitness = 0.0, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 40: Best Fitness = 0.92125, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 41: Best Fitness = 0.8932, Chromosome = [4, 0, 8, 6, 7, 2, -1, 8, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 42: Best Fitness = 0.83587, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 43: Best Fitness = 0.96703, Chromosome = [4, 4, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 44: Best Fitness = 0.99469, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 45: Best Fitness = 0.86364, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 46: Best Fitness = 0.86485, Chromosome = [4, 0, 1, 6, 7, 2, -1, 7, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 47: Best Fitness = 0.0, Chromosome = [4, 0, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 48: Best Fitness = 0.0, Chromosome = [4, 0, 1, 6, 7, 2, -1, 7, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 49: Best Fitness = 0.88211, Chromosome = [4, 4, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [unload_decision.GA_01] [INFO] - Generation 50: Best Fitness = 0.86733, Chromosome = [4, 4, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - GA 当前最优染色体: [4, 4, 1, 6, 7, 2, -1, 3, 7, -1]
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - TestSchedule ===> 测试PSO算法........
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - PSO 当前最优粒子: [34.02785640555739, 22.021051416449122, 0.8129593414172065, 32.103353497169046, 87.82195541275944, 85.22182129640368, 84.04944339003835, 85.66972482355114, 35.16524751923876, 19.99834821175031]
+2024-01-10 16:41:06 [main] [utils.Formula] [INFO] - ========================= 计算任务花费时间 =========================
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ----------29.41176470588235----------
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ----------1114.8426961777898----------
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ----------Infinity----------
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ----------1067.9342561165317----------
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ----------1124.7219103973316----------
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ----------1409.0926345246917----------
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ----------229.88051930996576----------
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ----------1124.9923634061213----------
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ----------1228.8754783342433----------
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ----------249.10233898696399----------
+2024-01-10 16:41:06 [main] [utils.Formula] [INFO] - ========================= 计算任务满意度List =========================
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++4.268326059438861++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++3.9623418057977102++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++0.0++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++3.977891967165463++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++3.9590368043331647++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++3.8592546789876336++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++4.219555693586443++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++3.958946178853271++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++3.923546141472782++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++4.21471190835376++++++
+2024-01-10 16:41:06 [main] [utils.Formula] [INFO] - ==================== 计算任务总能耗 ===================
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++115600.0++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++49469.38815072324++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++1200.3040497628147++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++103436.68425611652++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++758013.2276575238++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++723897.3279286424++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++705818.6191624722++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++723613.2276575238++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++123700.30404976281++++++
+2024-01-10 16:41:06 [main] [TestModule] [INFO] - ++++++36305.03022814683++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - TestSchedule ===> 测试 GA algorithm .......
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 1: Best Fitness = 0.85357, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 2: Best Fitness = 0.92414, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 3: Best Fitness = 0.85733, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 4: Best Fitness = 0.87515, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 1, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 5: Best Fitness = 0.58895, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 6: Best Fitness = 0.87963, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 7: Best Fitness = 0.95704, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 8: Best Fitness = 0.0, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 9: Best Fitness = 0.89275, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 10: Best Fitness = 0.0, Chromosome = [7, 3, 9, 1, 1, 2, 5, 8, 5, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 11: Best Fitness = 0.91985, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 12: Best Fitness = 0.92145, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 8]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 13: Best Fitness = 0.8832, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 14: Best Fitness = 0.99498, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 15: Best Fitness = 0.99937, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 16: Best Fitness = 0.71002, Chromosome = [7, 7, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 17: Best Fitness = 0.9882, Chromosome = [7, 3, 9, 1, 7, 2, 3, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 18: Best Fitness = 0.87214, Chromosome = [7, 7, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 19: Best Fitness = 0.0, Chromosome = [7, 3, 9, 1, 7, 2, 3, 8, 2, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 20: Best Fitness = 0.97729, Chromosome = [3, 3, 9, 1, 7, 2, 3, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 21: Best Fitness = 0.69685, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 22: Best Fitness = 0.97712, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 23: Best Fitness = 0.81766, Chromosome = [7, 3, 9, 1, 7, 2, 3, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 24: Best Fitness = 0.77571, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 25: Best Fitness = 0.93715, Chromosome = [7, 7, 9, 1, 7, 2, 6, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 26: Best Fitness = 0.98191, Chromosome = [7, 7, 9, 1, 7, 2, 3, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 27: Best Fitness = 0.76508, Chromosome = [7, 7, 9, 1, 7, 2, 6, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 28: Best Fitness = 0.98061, Chromosome = [7, 7, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 29: Best Fitness = 0.97098, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 30: Best Fitness = 0.92688, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 31: Best Fitness = 0.0, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 32: Best Fitness = 0.98174, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 33: Best Fitness = 0.93581, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 34: Best Fitness = 0.99567, Chromosome = [7, 3, 9, 1, 7, 2, 3, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 35: Best Fitness = 0.49634, Chromosome = [7, 3, 9, 1, 7, 2, 3, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 36: Best Fitness = 0.71331, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 37: Best Fitness = 0.66286, Chromosome = [7, 3, 9, 1, 7, 2, 3, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 38: Best Fitness = 0.95324, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 39: Best Fitness = 0.92345, Chromosome = [7, 3, 9, 1, 7, 2, 3, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 40: Best Fitness = 0.95229, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 41: Best Fitness = 0.85563, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 42: Best Fitness = 0.98702, Chromosome = [7, 3, 9, 1, 7, 2, 3, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 43: Best Fitness = 0.89274, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 44: Best Fitness = 0.0, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 45: Best Fitness = 0.92756, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 46: Best Fitness = 0.94421, Chromosome = [7, 3, 9, 1, 7, 2, 5, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 47: Best Fitness = 0.97047, Chromosome = [0, 3, 9, 1, 7, 2, 3, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 48: Best Fitness = 0.92293, Chromosome = [0, 3, 9, 1, 7, 2, 3, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 49: Best Fitness = 0.8593, Chromosome = [2, 3, 3, 1, 7, 2, 3, 8, 0, 3]
+2024-01-10 16:42:07 [main] [unload_decision.GA_01] [INFO] - Generation 50: Best Fitness = 0.72312, Chromosome = [7, 3, 9, 1, 7, 2, 3, 8, 0, 1]
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - GA 当前最优染色体: [7, 3, 9, 1, 7, 2, 3, 8, 0, 1]
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - TestSchedule ===> 测试PSO算法........
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - PSO 当前最优粒子: [23.343152318390725, 7.750819924904441, 55.96724439147449, 72.63001471480325, 18.941440229200417, 92.86723416258266, 87.00446560227343, 86.98688381144878, 96.5825289180365, 7.033613512628936]
+2024-01-10 16:42:07 [main] [TestModule] [ERROR] - ..............输出结果如下...................
+2024-01-10 16:42:07 [main] [utils.Formula] [INFO] - ========================= 计算任务花费时间 =========================
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ----------1445.615979469286----------
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ----------1283.3472245734386----------
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ----------1117.3077918880895----------
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ----------1128.4203682947993----------
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ----------1173.3565066505942----------
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ----------1125.4010446233017----------
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ----------1110.6202265798345----------
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ----------1129.4288580717828----------
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ----------78.83629873466256----------
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ----------1260.6580939521814----------
+2024-01-10 16:42:07 [main] [utils.Formula] [INFO] - ========================= 计算任务满意度List =========================
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++3.845764465035111++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++3.9045053974397126++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++3.9615181141859823++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++3.9577968125311638++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++3.9426124328203445++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++3.9588092198301137++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++3.963751191852035++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++3.9574584372632047++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++4.256592666884787++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++3.9124770320432702++++++
+2024-01-10 16:42:07 [main] [utils.Formula] [INFO] - ==================== 计算任务总能耗 ===================
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++54302.13771859972++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++6040.490081716296++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++303599.12597370625++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++519514.53147940594++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++33517.800951095036++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++847514.5314794059++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++757999.1259737063++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++740717.8009510951++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++921685.1726484714++++++
+2024-01-10 16:42:07 [main] [TestModule] [INFO] - ++++++6017.800951095039++++++
