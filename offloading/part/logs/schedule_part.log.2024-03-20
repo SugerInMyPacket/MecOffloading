@@ -1,0 +1,540 @@
+2024-03-20 11:43:51 INFO [Temp - Test - Part] - 
+
+2024-03-20 11:43:51 ERROR [Temp - Test - Part] - ======== test DSPRCOA =========
+2024-03-20 11:43:51 INFO [Temp - Test - Part] - taskSizeFromDB: 30
+2024-03-20 11:43:51 INFO [Temp - Test - Part] - vehicleSizeFromDB: 10
+2024-03-20 11:43:51 INFO [Temp - Test - Part] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980]
+2024-03-20 11:43:51 INFO [Temp - Test - Part] - 第0次大迭代 ---
+2024-03-20 11:43:51 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:44:01 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 11:44:01 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:44:01 INFO [Temp - Test - Part] - 第1次大迭代 ---
+2024-03-20 11:44:01 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:44:10 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 11:44:10 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:44:10 INFO [Temp - Test - Part] - 第2次大迭代 ---
+2024-03-20 11:44:10 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:44:20 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 11:44:20 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:44:20 INFO [Temp - Test - Part] - 第3次大迭代 ---
+2024-03-20 11:44:20 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:44:30 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 11:44:30 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:44:30 INFO [Temp - Test - Part] - 第4次大迭代 ---
+2024-03-20 11:44:30 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:44:39 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 11:44:39 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:44:39 INFO [Temp - Test - Part] - 第5次大迭代 ---
+2024-03-20 11:44:40 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:44:49 INFO [Temp - Test - Part] - SA pareto 个数：3
+2024-03-20 11:44:49 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:44:49 INFO [Temp - Test - Part] - 第6次大迭代 ---
+2024-03-20 11:44:49 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:44:59 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 11:44:59 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:44:59 INFO [Temp - Test - Part] - 第7次大迭代 ---
+2024-03-20 11:45:00 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:45:22 INFO [Temp - Test - Part] - 
+
+2024-03-20 11:45:22 ERROR [Temp - Test - Part] - ======== test DSPRCOA =========
+2024-03-20 11:45:23 INFO [Temp - Test - Part] - taskSizeFromDB: 30
+2024-03-20 11:45:23 INFO [Temp - Test - Part] - vehicleSizeFromDB: 10
+2024-03-20 11:45:23 INFO [Temp - Test - Part] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980]
+2024-03-20 11:45:23 INFO [Temp - Test - Part] - 第0次大迭代 ---
+2024-03-20 11:45:23 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:45:25 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 11:45:25 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:45:25 INFO [Temp - Test - Part] - 第1次大迭代 ---
+2024-03-20 11:45:26 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:45:27 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 11:45:27 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:45:27 INFO [Temp - Test - Part] - 第2次大迭代 ---
+2024-03-20 11:45:28 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:45:29 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 11:45:30 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:45:30 INFO [Temp - Test - Part] - 第3次大迭代 ---
+2024-03-20 11:45:30 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:45:32 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 11:45:32 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:45:32 INFO [Temp - Test - Part] - 第4次大迭代 ---
+2024-03-20 11:45:32 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:45:34 INFO [Temp - Test - Part] - SA pareto 个数：2
+2024-03-20 11:45:34 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:45:34 INFO [Temp - Test - Part] - 第5次大迭代 ---
+2024-03-20 11:45:34 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:45:36 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 11:45:36 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:45:36 INFO [Temp - Test - Part] - 第6次大迭代 ---
+2024-03-20 11:45:36 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:45:38 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 11:45:38 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:45:38 INFO [Temp - Test - Part] - 第7次大迭代 ---
+2024-03-20 11:45:38 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:45:40 INFO [Temp - Test - Part] - SA pareto 个数：2
+2024-03-20 11:45:40 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:45:40 INFO [Temp - Test - Part] - 第8次大迭代 ---
+2024-03-20 11:45:40 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:45:42 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 11:45:42 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:45:42 INFO [Temp - Test - Part] - 第9次大迭代 ---
+2024-03-20 11:45:42 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:45:44 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 11:45:44 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:45:44 WARN [Temp - Test - Part] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-20 11:45:44 INFO [Temp - Test - Part] - USS avg val: 4.332, Energy avg val: 4.576
+2024-03-20 11:52:03 INFO [Temp - Test - Part] - 
+
+2024-03-20 11:52:03 ERROR [Temp - Test - Part] - ======== test DSPRCOA =========
+2024-03-20 11:52:03 INFO [Temp - Test - Part] - taskSizeFromDB: 30
+2024-03-20 11:52:03 INFO [Temp - Test - Part] - vehicleSizeFromDB: 10
+2024-03-20 11:52:03 INFO [Temp - Test - Part] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980]
+2024-03-20 11:52:03 INFO [Temp - Test - Part] - 第0次大迭代 ---
+2024-03-20 11:52:03 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:52:06 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 11:52:06 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:52:06 INFO [Temp - Test - Part] - 第1次大迭代 ---
+2024-03-20 11:52:06 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:56:11 INFO [Temp - Test - Part] - 
+
+2024-03-20 11:56:11 ERROR [Temp - Test - Part] - ======== test DSPRCOA =========
+2024-03-20 11:56:11 INFO [Temp - Test - Part] - taskSizeFromDB: 30
+2024-03-20 11:56:11 INFO [Temp - Test - Part] - vehicleSizeFromDB: 10
+2024-03-20 11:56:11 INFO [Temp - Test - Part] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980]
+2024-03-20 11:56:11 INFO [Temp - Test - Part] - 第0次大迭代 ---
+2024-03-20 11:56:12 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:56:14 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 11:56:14 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:56:14 INFO [Temp - Test - Part] - 第1次大迭代 ---
+2024-03-20 11:56:14 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:56:16 INFO [Temp - Test - Part] - SA pareto 个数：5
+2024-03-20 11:56:16 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:56:16 INFO [Temp - Test - Part] - 第2次大迭代 ---
+2024-03-20 11:56:16 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:56:18 INFO [Temp - Test - Part] - SA pareto 个数：6
+2024-03-20 11:56:18 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:56:18 INFO [Temp - Test - Part] - 第3次大迭代 ---
+2024-03-20 11:56:18 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:56:20 INFO [Temp - Test - Part] - SA pareto 个数：8
+2024-03-20 11:56:20 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:56:20 INFO [Temp - Test - Part] - 第4次大迭代 ---
+2024-03-20 11:56:20 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:56:22 INFO [Temp - Test - Part] - SA pareto 个数：5
+2024-03-20 11:56:22 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:56:22 INFO [Temp - Test - Part] - 第5次大迭代 ---
+2024-03-20 11:56:22 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:56:23 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 11:56:23 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:56:23 INFO [Temp - Test - Part] - 第6次大迭代 ---
+2024-03-20 11:56:24 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:56:25 INFO [Temp - Test - Part] - SA pareto 个数：6
+2024-03-20 11:56:25 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:56:25 INFO [Temp - Test - Part] - 第7次大迭代 ---
+2024-03-20 11:56:26 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:56:27 INFO [Temp - Test - Part] - SA pareto 个数：8
+2024-03-20 11:56:27 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:56:27 INFO [Temp - Test - Part] - 第8次大迭代 ---
+2024-03-20 11:56:27 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:56:29 INFO [Temp - Test - Part] - SA pareto 个数：6
+2024-03-20 11:56:29 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:56:29 INFO [Temp - Test - Part] - 第9次大迭代 ---
+2024-03-20 11:56:29 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 11:56:31 INFO [Temp - Test - Part] - SA pareto 个数：6
+2024-03-20 11:56:31 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 11:56:31 WARN [Temp - Test - Part] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-20 11:56:31 INFO [Temp - Test - Part] - USS avg val: 2.456, Energy avg val: 7.348
+2024-03-20 12:00:35 INFO [Temp - Test - Part] - 
+
+2024-03-20 12:00:35 ERROR [Temp - Test - Part] - ======== test DSPRCOA =========
+2024-03-20 12:00:35 INFO [Temp - Test - Part] - taskSizeFromDB: 30
+2024-03-20 12:00:35 INFO [Temp - Test - Part] - vehicleSizeFromDB: 10
+2024-03-20 12:00:35 INFO [Temp - Test - Part] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980]
+2024-03-20 12:00:35 INFO [Temp - Test - Part] - 第0次大迭代 ---
+2024-03-20 12:00:35 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 12:00:37 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 12:00:37 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 12:00:37 INFO [Temp - Test - Part] - 第1次大迭代 ---
+2024-03-20 12:00:38 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 12:00:39 INFO [Temp - Test - Part] - SA pareto 个数：9
+2024-03-20 12:00:39 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 12:00:39 INFO [Temp - Test - Part] - 第2次大迭代 ---
+2024-03-20 12:00:39 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 12:00:40 INFO [Temp - Test - Part] - SA pareto 个数：10
+2024-03-20 12:00:40 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 12:00:40 INFO [Temp - Test - Part] - 第3次大迭代 ---
+2024-03-20 12:00:41 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 12:00:42 INFO [Temp - Test - Part] - SA pareto 个数：9
+2024-03-20 12:00:42 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 12:00:42 INFO [Temp - Test - Part] - 第4次大迭代 ---
+2024-03-20 12:00:42 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 12:00:43 INFO [Temp - Test - Part] - SA pareto 个数：4
+2024-03-20 12:00:43 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 12:00:43 INFO [Temp - Test - Part] - 第5次大迭代 ---
+2024-03-20 12:00:44 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 12:00:45 INFO [Temp - Test - Part] - SA pareto 个数：9
+2024-03-20 12:00:45 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 12:00:45 INFO [Temp - Test - Part] - 第6次大迭代 ---
+2024-03-20 12:00:45 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 12:00:46 INFO [Temp - Test - Part] - SA pareto 个数：7
+2024-03-20 12:00:46 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 12:00:46 INFO [Temp - Test - Part] - 第7次大迭代 ---
+2024-03-20 12:00:46 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 12:00:48 INFO [Temp - Test - Part] - SA pareto 个数：8
+2024-03-20 12:00:48 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 12:00:48 INFO [Temp - Test - Part] - 第8次大迭代 ---
+2024-03-20 12:00:48 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 12:00:49 INFO [Temp - Test - Part] - SA pareto 个数：1
+2024-03-20 12:00:49 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 12:00:49 INFO [Temp - Test - Part] - 第9次大迭代 ---
+2024-03-20 12:00:49 INFO [Temp - Test - Part] - DE pareto 个数：1
+2024-03-20 12:00:51 INFO [Temp - Test - Part] - SA pareto 个数：14
+2024-03-20 12:00:51 INFO [Temp - Test - Part] - PSO pareto 个数：1
+2024-03-20 12:00:51 WARN [Temp - Test - Part] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-20 12:00:51 INFO [Temp - Test - Part] - USS avg val: 2.369, Energy avg val: 4.28
+2024-03-20 12:09:55 INFO [Temp - Test - Part] - 
+
+2024-03-20 12:09:55 ERROR [Temp - Test - Part] - ======== test DSPRCOA =========
+2024-03-20 12:09:56 INFO [Temp - Test - Part] - taskSizeFromDB: 30
+2024-03-20 12:09:56 INFO [Temp - Test - Part] - vehicleSizeFromDB: 10
+2024-03-20 12:09:56 INFO [Temp - Test - Part] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980]
+2024-03-20 12:09:56 INFO [Temp - Test - Part] - 第0次大迭代 ---
+2024-03-20 12:09:56 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:09:58 INFO [Temp - Test - Part] - SA - pareto 个数：1
+2024-03-20 12:09:58 INFO [Temp - Test - Part] - PSO - pareto 个数：28
+2024-03-20 12:09:58 INFO [Temp - Test - Part] - 第1次大迭代 ---
+2024-03-20 12:09:58 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:10:00 INFO [Temp - Test - Part] - SA - pareto 个数：10
+2024-03-20 12:10:00 INFO [Temp - Test - Part] - PSO - pareto 个数：12
+2024-03-20 12:10:00 INFO [Temp - Test - Part] - 第2次大迭代 ---
+2024-03-20 12:10:00 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:10:01 INFO [Temp - Test - Part] - SA - pareto 个数：9
+2024-03-20 12:10:01 INFO [Temp - Test - Part] - PSO - pareto 个数：17
+2024-03-20 12:10:01 INFO [Temp - Test - Part] - 第3次大迭代 ---
+2024-03-20 12:10:02 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:10:03 INFO [Temp - Test - Part] - SA - pareto 个数：7
+2024-03-20 12:10:03 INFO [Temp - Test - Part] - PSO - pareto 个数：2
+2024-03-20 12:10:03 INFO [Temp - Test - Part] - 第4次大迭代 ---
+2024-03-20 12:10:03 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:10:05 INFO [Temp - Test - Part] - SA - pareto 个数：4
+2024-03-20 12:10:05 INFO [Temp - Test - Part] - PSO - pareto 个数：9
+2024-03-20 12:10:05 INFO [Temp - Test - Part] - 第5次大迭代 ---
+2024-03-20 12:10:05 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:10:07 INFO [Temp - Test - Part] - SA - pareto 个数：5
+2024-03-20 12:10:07 INFO [Temp - Test - Part] - PSO - pareto 个数：3
+2024-03-20 12:10:07 INFO [Temp - Test - Part] - 第6次大迭代 ---
+2024-03-20 12:10:07 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:10:08 INFO [Temp - Test - Part] - SA - pareto 个数：2
+2024-03-20 12:10:08 INFO [Temp - Test - Part] - PSO - pareto 个数：7
+2024-03-20 12:10:08 INFO [Temp - Test - Part] - 第7次大迭代 ---
+2024-03-20 12:10:09 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:10:10 INFO [Temp - Test - Part] - SA - pareto 个数：4
+2024-03-20 12:10:10 INFO [Temp - Test - Part] - PSO - pareto 个数：5
+2024-03-20 12:10:10 INFO [Temp - Test - Part] - 第8次大迭代 ---
+2024-03-20 12:10:10 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:10:12 INFO [Temp - Test - Part] - SA - pareto 个数：2
+2024-03-20 12:10:12 INFO [Temp - Test - Part] - PSO - pareto 个数：11
+2024-03-20 12:10:12 INFO [Temp - Test - Part] - 第9次大迭代 ---
+2024-03-20 12:10:12 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:10:14 INFO [Temp - Test - Part] - SA - pareto 个数：5
+2024-03-20 12:10:14 INFO [Temp - Test - Part] - PSO - pareto 个数：5
+2024-03-20 12:10:14 WARN [Temp - Test - Part] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-20 12:10:14 INFO [Temp - Test - Part] - USS avg val: 3.998, Energy avg val: 24.508
+2024-03-20 12:10:14 INFO [Temp - Test - Part] - USS avg val: 3.996, Energy avg val: 22.392
+2024-03-20 12:10:14 INFO [Temp - Test - Part] - USS avg val: 3.995, Energy avg val: 22.066
+2024-03-20 12:10:14 INFO [Temp - Test - Part] - USS avg val: 3.997, Energy avg val: 22.6
+2024-03-20 12:10:14 INFO [Temp - Test - Part] - USS avg val: 3.999, Energy avg val: 29.177
+2024-03-20 12:13:10 INFO [Temp - Test - Part] - 
+
+2024-03-20 12:13:10 ERROR [Temp - Test - Part] - ======== test DSPRCOA =========
+2024-03-20 12:13:10 INFO [Temp - Test - Part] - taskSizeFromDB: 100
+2024-03-20 12:13:10 INFO [Temp - Test - Part] - vehicleSizeFromDB: 50
+2024-03-20 12:13:10 INFO [Temp - Test - Part] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-20 12:13:10 INFO [Temp - Test - Part] - 第0次大迭代 ---
+2024-03-20 12:13:11 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:13:16 INFO [Temp - Test - Part] - SA - pareto 个数：2
+2024-03-20 12:13:17 INFO [Temp - Test - Part] - PSO - pareto 个数：25
+2024-03-20 12:13:17 INFO [Temp - Test - Part] - 第1次大迭代 ---
+2024-03-20 12:13:17 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:13:22 INFO [Temp - Test - Part] - SA - pareto 个数：5
+2024-03-20 12:13:22 INFO [Temp - Test - Part] - PSO - pareto 个数：21
+2024-03-20 12:13:22 INFO [Temp - Test - Part] - 第2次大迭代 ---
+2024-03-20 12:13:23 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:13:28 INFO [Temp - Test - Part] - SA - pareto 个数：12
+2024-03-20 12:13:28 INFO [Temp - Test - Part] - PSO - pareto 个数：23
+2024-03-20 12:13:28 INFO [Temp - Test - Part] - 第3次大迭代 ---
+2024-03-20 12:13:29 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:13:34 INFO [Temp - Test - Part] - SA - pareto 个数：3
+2024-03-20 12:13:34 INFO [Temp - Test - Part] - PSO - pareto 个数：14
+2024-03-20 12:13:34 INFO [Temp - Test - Part] - 第4次大迭代 ---
+2024-03-20 12:13:35 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:13:40 INFO [Temp - Test - Part] - SA - pareto 个数：8
+2024-03-20 12:13:40 INFO [Temp - Test - Part] - PSO - pareto 个数：27
+2024-03-20 12:13:40 INFO [Temp - Test - Part] - 第5次大迭代 ---
+2024-03-20 12:13:41 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:13:46 INFO [Temp - Test - Part] - SA - pareto 个数：3
+2024-03-20 12:13:46 INFO [Temp - Test - Part] - PSO - pareto 个数：29
+2024-03-20 12:13:46 INFO [Temp - Test - Part] - 第6次大迭代 ---
+2024-03-20 12:13:47 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:13:51 INFO [Temp - Test - Part] - SA - pareto 个数：8
+2024-03-20 12:13:51 INFO [Temp - Test - Part] - PSO - pareto 个数：19
+2024-03-20 12:13:51 INFO [Temp - Test - Part] - 第7次大迭代 ---
+2024-03-20 12:13:52 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:13:57 INFO [Temp - Test - Part] - SA - pareto 个数：9
+2024-03-20 12:13:57 INFO [Temp - Test - Part] - PSO - pareto 个数：23
+2024-03-20 12:13:57 INFO [Temp - Test - Part] - 第8次大迭代 ---
+2024-03-20 12:13:58 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:14:03 INFO [Temp - Test - Part] - SA - pareto 个数：3
+2024-03-20 12:14:03 INFO [Temp - Test - Part] - PSO - pareto 个数：18
+2024-03-20 12:14:03 INFO [Temp - Test - Part] - 第9次大迭代 ---
+2024-03-20 12:14:03 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 12:14:08 INFO [Temp - Test - Part] - SA - pareto 个数：3
+2024-03-20 12:14:08 INFO [Temp - Test - Part] - PSO - pareto 个数：13
+2024-03-20 12:14:08 WARN [Temp - Test - Part] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-20 12:14:08 INFO [Temp - Test - Part] - USS avg val: 3.912, Energy avg val: 22.68
+2024-03-20 12:14:08 INFO [Temp - Test - Part] - USS avg val: 3.959, Energy avg val: 98.769
+2024-03-20 12:14:08 INFO [Temp - Test - Part] - USS avg val: 3.953, Energy avg val: 68.502
+2024-03-20 12:14:08 INFO [Temp - Test - Part] - USS avg val: 3.873, Energy avg val: 21.44
+2024-03-20 12:14:08 INFO [Temp - Test - Part] - USS avg val: 3.874, Energy avg val: 21.55
+2024-03-20 12:14:08 INFO [Temp - Test - Part] - USS avg val: 3.942, Energy avg val: 30.615
+2024-03-20 12:14:08 INFO [Temp - Test - Part] - USS avg val: 3.876, Energy avg val: 21.827
+2024-03-20 12:14:08 INFO [Temp - Test - Part] - USS avg val: 3.922, Energy avg val: 26.627
+2024-03-20 12:14:08 INFO [Temp - Test - Part] - USS avg val: 3.917, Energy avg val: 23.994
+2024-03-20 12:14:08 INFO [Temp - Test - Part] - USS avg val: 3.958, Energy avg val: 87.294
+2024-03-20 12:14:08 INFO [Temp - Test - Part] - USS avg val: 3.914, Energy avg val: 23.322
+2024-03-20 12:14:08 INFO [Temp - Test - Part] - USS avg val: 3.951, Energy avg val: 44.423
+2024-03-20 12:14:08 INFO [Temp - Test - Part] - USS avg val: 3.947, Energy avg val: 37.152
+2024-03-20 15:05:03 INFO [Temp - Test - Part] - 
+
+2024-03-20 15:05:03 ERROR [Temp - Test - Part] - ======== test DSPRCOA =========
+2024-03-20 15:05:04 INFO [Temp - Test - Part] - taskSizeFromDB: 100
+2024-03-20 15:05:04 INFO [Temp - Test - Part] - vehicleSizeFromDB: 50
+2024-03-20 15:05:04 INFO [Temp - Test - Part] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-20 15:05:04 INFO [Temp - Test - Part] - 第0次大迭代 ---
+2024-03-20 15:05:05 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:05:08 INFO [Temp - Test - Part] - SA - pareto 个数：1
+2024-03-20 15:05:08 INFO [Temp - Test - Part] - PSO - pareto 个数：26
+2024-03-20 15:05:08 INFO [Temp - Test - Part] - 第1次大迭代 ---
+2024-03-20 15:05:09 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:05:12 INFO [Temp - Test - Part] - SA - pareto 个数：9
+2024-03-20 15:05:12 INFO [Temp - Test - Part] - PSO - pareto 个数：23
+2024-03-20 15:05:12 INFO [Temp - Test - Part] - 第2次大迭代 ---
+2024-03-20 15:05:13 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:05:15 INFO [Temp - Test - Part] - SA - pareto 个数：6
+2024-03-20 15:05:15 INFO [Temp - Test - Part] - PSO - pareto 个数：27
+2024-03-20 15:05:15 INFO [Temp - Test - Part] - 第3次大迭代 ---
+2024-03-20 15:05:17 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:05:19 INFO [Temp - Test - Part] - SA - pareto 个数：6
+2024-03-20 15:05:19 INFO [Temp - Test - Part] - PSO - pareto 个数：19
+2024-03-20 15:05:19 INFO [Temp - Test - Part] - 第4次大迭代 ---
+2024-03-20 15:05:20 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:05:23 INFO [Temp - Test - Part] - SA - pareto 个数：6
+2024-03-20 15:05:23 INFO [Temp - Test - Part] - PSO - pareto 个数：21
+2024-03-20 15:05:23 INFO [Temp - Test - Part] - 第5次大迭代 ---
+2024-03-20 15:05:24 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:05:27 INFO [Temp - Test - Part] - SA - pareto 个数：6
+2024-03-20 15:05:27 INFO [Temp - Test - Part] - PSO - pareto 个数：22
+2024-03-20 15:05:27 INFO [Temp - Test - Part] - 第6次大迭代 ---
+2024-03-20 15:05:28 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:05:31 INFO [Temp - Test - Part] - SA - pareto 个数：10
+2024-03-20 15:05:31 INFO [Temp - Test - Part] - PSO - pareto 个数：28
+2024-03-20 15:05:31 INFO [Temp - Test - Part] - 第7次大迭代 ---
+2024-03-20 15:05:32 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:05:34 INFO [Temp - Test - Part] - SA - pareto 个数：4
+2024-03-20 15:05:35 INFO [Temp - Test - Part] - PSO - pareto 个数：19
+2024-03-20 15:05:35 INFO [Temp - Test - Part] - 第8次大迭代 ---
+2024-03-20 15:05:36 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:05:38 INFO [Temp - Test - Part] - SA - pareto 个数：4
+2024-03-20 15:05:39 INFO [Temp - Test - Part] - PSO - pareto 个数：19
+2024-03-20 15:05:39 INFO [Temp - Test - Part] - 第9次大迭代 ---
+2024-03-20 15:05:40 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - SA - pareto 个数：7
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - PSO - pareto 个数：29
+2024-03-20 15:05:42 WARN [Temp - Test - Part] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.798, Energy avg val: 20.608
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.835, Energy avg val: 22.126
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.824, Energy avg val: 21.065
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.793, Energy avg val: 19.634
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.753, Energy avg val: 19.5
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.861, Energy avg val: 23.369
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.868, Energy avg val: 24.162
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.934, Energy avg val: 46.057
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.912, Energy avg val: 42.136
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.873, Energy avg val: 25.014
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.826, Energy avg val: 21.247
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.829, Energy avg val: 21.816
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.892, Energy avg val: 34.956
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.924, Energy avg val: 43.604
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.795, Energy avg val: 20.365
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.89, Energy avg val: 29.326
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.898, Energy avg val: 37.997
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.902, Energy avg val: 39.726
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.879, Energy avg val: 25.623
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.884, Energy avg val: 27.489
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.959, Energy avg val: 185.257
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.955, Energy avg val: 79.209
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.952, Energy avg val: 65.386
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.958, Energy avg val: 105.041
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.948, Energy avg val: 49.002
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.821, Energy avg val: 20.995
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.754, Energy avg val: 19.55
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.949, Energy avg val: 52.692
+2024-03-20 15:05:42 INFO [Temp - Test - Part] - USS avg val: 3.947, Energy avg val: 47.79
+2024-03-20 15:28:27 INFO [Temp - Test - Part] - 
+
+2024-03-20 15:28:27 ERROR [Temp - Test - Part] - ======== test DSPRCOA =========
+2024-03-20 15:28:27 INFO [Temp - Test - Part] - taskSizeFromDB: 100
+2024-03-20 15:28:27 INFO [Temp - Test - Part] - vehicleSizeFromDB: 50
+2024-03-20 15:28:27 INFO [Temp - Test - Part] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-20 15:28:27 INFO [Temp - Test - Part] - 第0次大迭代 ---
+2024-03-20 15:28:29 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:28:30 INFO [Temp - Test - Part] - SA - pareto 个数：2
+2024-03-20 15:28:30 INFO [Temp - Test - Part] - PSO - pareto 个数：25
+2024-03-20 15:28:30 INFO [Temp - Test - Part] - 第1次大迭代 ---
+2024-03-20 15:28:31 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:28:31 INFO [Temp - Test - Part] - SA - pareto 个数：5
+2024-03-20 15:28:32 INFO [Temp - Test - Part] - PSO - pareto 个数：25
+2024-03-20 15:28:32 INFO [Temp - Test - Part] - 第2次大迭代 ---
+2024-03-20 15:28:33 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:28:33 INFO [Temp - Test - Part] - SA - pareto 个数：5
+2024-03-20 15:28:33 INFO [Temp - Test - Part] - PSO - pareto 个数：19
+2024-03-20 15:28:33 INFO [Temp - Test - Part] - 第3次大迭代 ---
+2024-03-20 15:28:34 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:28:35 INFO [Temp - Test - Part] - SA - pareto 个数：3
+2024-03-20 15:28:35 INFO [Temp - Test - Part] - PSO - pareto 个数：26
+2024-03-20 15:28:35 INFO [Temp - Test - Part] - 第4次大迭代 ---
+2024-03-20 15:28:36 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:28:37 INFO [Temp - Test - Part] - SA - pareto 个数：4
+2024-03-20 15:28:37 INFO [Temp - Test - Part] - PSO - pareto 个数：24
+2024-03-20 15:28:37 INFO [Temp - Test - Part] - 第5次大迭代 ---
+2024-03-20 15:28:38 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:28:38 INFO [Temp - Test - Part] - SA - pareto 个数：8
+2024-03-20 15:28:38 INFO [Temp - Test - Part] - PSO - pareto 个数：15
+2024-03-20 15:28:38 INFO [Temp - Test - Part] - 第6次大迭代 ---
+2024-03-20 15:28:40 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:28:40 INFO [Temp - Test - Part] - SA - pareto 个数：4
+2024-03-20 15:28:40 INFO [Temp - Test - Part] - PSO - pareto 个数：21
+2024-03-20 15:28:40 INFO [Temp - Test - Part] - 第7次大迭代 ---
+2024-03-20 15:28:41 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:28:42 INFO [Temp - Test - Part] - SA - pareto 个数：5
+2024-03-20 15:28:42 INFO [Temp - Test - Part] - PSO - pareto 个数：18
+2024-03-20 15:28:42 INFO [Temp - Test - Part] - 第8次大迭代 ---
+2024-03-20 15:28:43 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:28:44 INFO [Temp - Test - Part] - SA - pareto 个数：3
+2024-03-20 15:28:44 INFO [Temp - Test - Part] - PSO - pareto 个数：24
+2024-03-20 15:28:44 INFO [Temp - Test - Part] - 第9次大迭代 ---
+2024-03-20 15:28:45 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - SA - pareto 个数：6
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - PSO - pareto 个数：22
+2024-03-20 15:28:46 WARN [Temp - Test - Part] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.957, Energy avg val: 242.108
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.871, Energy avg val: 23.126
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.958, Energy avg val: 279.28
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.95, Energy avg val: 72.269
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.841, Energy avg val: 21.396
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.939, Energy avg val: 37.658
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.956, Energy avg val: 165.781
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.888, Energy avg val: 25.54
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.954, Energy avg val: 105.223
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.951, Energy avg val: 91.0
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.833, Energy avg val: 20.246
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.872, Energy avg val: 23.728
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.949, Energy avg val: 55.129
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.883, Energy avg val: 24.283
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.944, Energy avg val: 53.267
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.886, Energy avg val: 25.297
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.83, Energy avg val: 20.061
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.907, Energy avg val: 30.81
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.955, Energy avg val: 119.039
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.829, Energy avg val: 19.977
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.795, Energy avg val: 19.91
+2024-03-20 15:28:46 INFO [Temp - Test - Part] - USS avg val: 3.837, Energy avg val: 20.685
+2024-03-20 15:31:41 INFO [Temp - Test - Part] - 
+
+2024-03-20 15:31:41 ERROR [Temp - Test - Part] - ======== test DSPRCOA =========
+2024-03-20 15:31:41 INFO [Temp - Test - Part] - taskSizeFromDB: 200
+2024-03-20 15:31:41 INFO [Temp - Test - Part] - vehicleSizeFromDB: 50
+2024-03-20 15:31:41 INFO [Temp - Test - Part] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-20 15:31:41 INFO [Temp - Test - Part] - 第01次大迭代 ---
+2024-03-20 15:31:44 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:31:45 INFO [Temp - Test - Part] - SA - pareto 个数：1
+2024-03-20 15:31:45 INFO [Temp - Test - Part] - PSO - pareto 个数：26
+2024-03-20 15:31:45 INFO [Temp - Test - Part] - 第11次大迭代 ---
+2024-03-20 15:31:48 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:31:49 INFO [Temp - Test - Part] - SA - pareto 个数：5
+2024-03-20 15:31:49 INFO [Temp - Test - Part] - PSO - pareto 个数：26
+2024-03-20 15:31:49 INFO [Temp - Test - Part] - 第21次大迭代 ---
+2024-03-20 15:31:51 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:31:53 INFO [Temp - Test - Part] - SA - pareto 个数：5
+2024-03-20 15:31:53 INFO [Temp - Test - Part] - PSO - pareto 个数：32
+2024-03-20 15:31:53 INFO [Temp - Test - Part] - 第31次大迭代 ---
+2024-03-20 15:31:55 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:31:56 INFO [Temp - Test - Part] - SA - pareto 个数：3
+2024-03-20 15:31:56 INFO [Temp - Test - Part] - PSO - pareto 个数：33
+2024-03-20 15:31:56 INFO [Temp - Test - Part] - 第41次大迭代 ---
+2024-03-20 15:31:59 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:31:59 INFO [Temp - Test - Part] - SA - pareto 个数：2
+2024-03-20 15:32:00 INFO [Temp - Test - Part] - PSO - pareto 个数：29
+2024-03-20 15:32:00 INFO [Temp - Test - Part] - 第51次大迭代 ---
+2024-03-20 15:32:02 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:32:03 INFO [Temp - Test - Part] - SA - pareto 个数：7
+2024-03-20 15:32:03 INFO [Temp - Test - Part] - PSO - pareto 个数：20
+2024-03-20 15:32:03 INFO [Temp - Test - Part] - 第61次大迭代 ---
+2024-03-20 15:32:05 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:32:06 INFO [Temp - Test - Part] - SA - pareto 个数：4
+2024-03-20 15:32:07 INFO [Temp - Test - Part] - PSO - pareto 个数：25
+2024-03-20 15:32:07 INFO [Temp - Test - Part] - 第71次大迭代 ---
+2024-03-20 15:32:09 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:32:10 INFO [Temp - Test - Part] - SA - pareto 个数：6
+2024-03-20 15:32:10 INFO [Temp - Test - Part] - PSO - pareto 个数：23
+2024-03-20 15:32:10 INFO [Temp - Test - Part] - 第81次大迭代 ---
+2024-03-20 15:32:13 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:32:14 INFO [Temp - Test - Part] - SA - pareto 个数：3
+2024-03-20 15:32:14 INFO [Temp - Test - Part] - PSO - pareto 个数：35
+2024-03-20 15:32:14 INFO [Temp - Test - Part] - 第91次大迭代 ---
+2024-03-20 15:32:16 INFO [Temp - Test - Part] - DE - pareto 个数：1
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - SA - pareto 个数：5
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - PSO - pareto 个数：34
+2024-03-20 15:32:17 WARN [Temp - Test - Part] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.979, Energy avg val: 381.969
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.973, Energy avg val: 347.416
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.91, Energy avg val: 102.893
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.972, Energy avg val: 264.196
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.887, Energy avg val: 100.113
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.837, Energy avg val: 49.449
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.958, Energy avg val: 210.025
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.841, Energy avg val: 58.4
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.721, Energy avg val: 19.13
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.633, Energy avg val: 17.563
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.936, Energy avg val: 130.327
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.884, Energy avg val: 94.808
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.864, Energy avg val: 64.22
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.829, Energy avg val: 42.0
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.826, Energy avg val: 39.214
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.739, Energy avg val: 19.288
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.679, Energy avg val: 17.887
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.882, Energy avg val: 81.003
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.952, Energy avg val: 150.658
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.757, Energy avg val: 19.92
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.699, Energy avg val: 18.265
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.84, Energy avg val: 54.75
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.978, Energy avg val: 357.356
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.784, Energy avg val: 24.382
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.955, Energy avg val: 177.619
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.785, Energy avg val: 24.614
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.678, Energy avg val: 17.675
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.848, Energy avg val: 61.966
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.677, Energy avg val: 17.601
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.977, Energy avg val: 350.36
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.831, Energy avg val: 49.125
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.782, Energy avg val: 20.149
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.879, Energy avg val: 76.38
+2024-03-20 15:32:17 INFO [Temp - Test - Part] - USS avg val: 3.823, Energy avg val: 29.196

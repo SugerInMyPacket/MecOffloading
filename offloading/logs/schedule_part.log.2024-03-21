@@ -1,0 +1,745 @@
+2024-03-21 16:29:22 INFO [Test_DPRCO] - 
+
+2024-03-21 16:29:22 ERROR [Test_DPRCO] - ======== test DSPRCOA =========
+2024-03-21 16:29:22 INFO [Test_DPRCO] - taskSizeFromDB: 200
+2024-03-21 16:29:22 INFO [Test_DPRCO] - vehicleSizeFromDB: 50
+2024-03-21 16:29:22 INFO [Test_DPRCO] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-21 16:29:22 INFO [Test_DPRCO] - --- 第1次大迭代 ---
+2024-03-21 16:30:06 INFO [Test_DPRCO] - 
+
+2024-03-21 16:30:06 ERROR [Test_DPRCO] - ======== test DSPRCOA =========
+2024-03-21 16:30:06 INFO [Test_DPRCO] - taskSizeFromDB: 200
+2024-03-21 16:30:06 INFO [Test_DPRCO] - vehicleSizeFromDB: 50
+2024-03-21 16:30:06 INFO [Test_DPRCO] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-21 16:30:06 INFO [Test_DPRCO] - --- 第1次大迭代 ---
+2024-03-21 16:33:33 INFO [Test_DPRCO] - 
+
+2024-03-21 16:33:33 ERROR [Test_DPRCO] - ======== test DSPRCOA =========
+2024-03-21 16:33:33 INFO [Test_DPRCO] - taskSizeFromDB: 200
+2024-03-21 16:33:33 INFO [Test_DPRCO] - vehicleSizeFromDB: 50
+2024-03-21 16:33:33 INFO [Test_DPRCO] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-21 16:33:33 INFO [Test_DPRCO] - --- 第1次大迭代 ---
+2024-03-21 16:33:56 INFO [Test_DPRCO] - 
+
+2024-03-21 16:33:56 ERROR [Test_DPRCO] - ======== test DSPRCOA =========
+2024-03-21 16:33:56 INFO [Test_DPRCO] - taskSizeFromDB: 200
+2024-03-21 16:33:56 INFO [Test_DPRCO] - vehicleSizeFromDB: 50
+2024-03-21 16:33:56 INFO [Test_DPRCO] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-21 16:33:56 INFO [Test_DPRCO] - --- 第1次大迭代 ---
+2024-03-21 16:33:59 INFO [Test_DPRCO] - DE - pareto 个数：5
+2024-03-21 16:33:59 INFO [Test_DPRCO] - PSO - pareto 个数：29
+2024-03-21 16:33:59 INFO [Test_DPRCO] - --- 第2次大迭代 ---
+2024-03-21 16:34:01 INFO [Test_DPRCO] - DE - pareto 个数：7
+2024-03-21 16:34:02 INFO [Test_DPRCO] - PSO - pareto 个数：24
+2024-03-21 16:34:02 INFO [Test_DPRCO] - --- 第3次大迭代 ---
+2024-03-21 16:34:04 INFO [Test_DPRCO] - DE - pareto 个数：9
+2024-03-21 16:34:04 INFO [Test_DPRCO] - PSO - pareto 个数：32
+2024-03-21 16:34:04 INFO [Test_DPRCO] - --- 第4次大迭代 ---
+2024-03-21 16:34:06 INFO [Test_DPRCO] - DE - pareto 个数：5
+2024-03-21 16:34:06 INFO [Test_DPRCO] - PSO - pareto 个数：20
+2024-03-21 16:34:06 INFO [Test_DPRCO] - --- 第5次大迭代 ---
+2024-03-21 16:34:08 INFO [Test_DPRCO] - DE - pareto 个数：9
+2024-03-21 16:34:09 INFO [Test_DPRCO] - PSO - pareto 个数：22
+2024-03-21 16:34:09 INFO [Test_DPRCO] - --- 第6次大迭代 ---
+2024-03-21 16:34:11 INFO [Test_DPRCO] - DE - pareto 个数：5
+2024-03-21 16:34:11 INFO [Test_DPRCO] - PSO - pareto 个数：28
+2024-03-21 16:34:11 INFO [Test_DPRCO] - --- 第7次大迭代 ---
+2024-03-21 16:34:13 INFO [Test_DPRCO] - DE - pareto 个数：6
+2024-03-21 16:34:13 INFO [Test_DPRCO] - PSO - pareto 个数：32
+2024-03-21 16:34:13 INFO [Test_DPRCO] - --- 第8次大迭代 ---
+2024-03-21 16:34:15 INFO [Test_DPRCO] - DE - pareto 个数：5
+2024-03-21 16:34:15 INFO [Test_DPRCO] - PSO - pareto 个数：31
+2024-03-21 16:34:15 INFO [Test_DPRCO] - --- 第9次大迭代 ---
+2024-03-21 16:34:17 INFO [Test_DPRCO] - DE - pareto 个数：9
+2024-03-21 16:34:18 INFO [Test_DPRCO] - PSO - pareto 个数：27
+2024-03-21 16:34:18 INFO [Test_DPRCO] - --- 第10次大迭代 ---
+2024-03-21 16:34:19 INFO [Test_DPRCO] - DE - pareto 个数：9
+2024-03-21 16:34:20 INFO [Test_DPRCO] - PSO - pareto 个数：31
+2024-03-21 16:34:20 WARN [Test_DPRCO] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.737, Energy avg val: 67.643
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.718, Energy avg val: 60.126
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.851, Energy avg val: 505.24
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.678, Energy avg val: 42.978
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.806, Energy avg val: 116.413
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.844, Energy avg val: 212.835
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.757, Energy avg val: 72.298
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.837, Energy avg val: 122.169
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.753, Energy avg val: 69.429
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.723, Energy avg val: 61.538
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.848, Energy avg val: 266.381
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.672, Energy avg val: 40.454
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.653, Energy avg val: 39.83
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.791, Energy avg val: 86.348
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.771, Energy avg val: 80.188
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.7, Energy avg val: 50.517
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.612, Energy avg val: 36.697
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.795, Energy avg val: 105.123
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.739, Energy avg val: 69.185
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.801, Energy avg val: 112.392
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.632, Energy avg val: 38.513
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.636, Energy avg val: 38.773
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.614, Energy avg val: 36.805
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.783, Energy avg val: 84.785
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.594, Energy avg val: 35.724
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.85, Energy avg val: 371.56
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.697, Energy avg val: 43.135
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.61, Energy avg val: 36.206
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.649, Energy avg val: 38.82
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.593, Energy avg val: 35.703
+2024-03-21 16:34:20 INFO [Test_DPRCO] - USS avg val: 3.616, Energy avg val: 37.443
+2024-03-21 16:35:12 INFO [Test_DPRCO] - 
+
+2024-03-21 16:35:12 ERROR [Test_DPRCO] - ======== test DSPRCOA =========
+2024-03-21 16:35:12 INFO [Test_DPRCO] - taskSizeFromDB: 200
+2024-03-21 16:35:12 INFO [Test_DPRCO] - vehicleSizeFromDB: 50
+2024-03-21 16:35:12 INFO [Test_DPRCO] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-21 16:35:12 INFO [Test_DPRCO] - --- 第1次大迭代 ---
+2024-03-21 16:35:15 INFO [Test_DPRCO] - DE - pareto 个数：4
+2024-03-21 16:35:15 INFO [Test_DPRCO] - PSO - pareto 个数：22
+2024-03-21 16:35:15 INFO [Test_DPRCO] - --- 第2次大迭代 ---
+2024-03-21 16:35:17 INFO [Test_DPRCO] - DE - pareto 个数：7
+2024-03-21 16:35:17 INFO [Test_DPRCO] - PSO - pareto 个数：34
+2024-03-21 16:35:17 INFO [Test_DPRCO] - --- 第3次大迭代 ---
+2024-03-21 16:35:19 INFO [Test_DPRCO] - DE - pareto 个数：6
+2024-03-21 16:35:19 INFO [Test_DPRCO] - PSO - pareto 个数：32
+2024-03-21 16:35:19 INFO [Test_DPRCO] - --- 第4次大迭代 ---
+2024-03-21 16:35:21 INFO [Test_DPRCO] - DE - pareto 个数：5
+2024-03-21 16:35:22 INFO [Test_DPRCO] - PSO - pareto 个数：18
+2024-03-21 16:35:22 INFO [Test_DPRCO] - --- 第5次大迭代 ---
+2024-03-21 16:35:24 INFO [Test_DPRCO] - DE - pareto 个数：5
+2024-03-21 16:35:24 INFO [Test_DPRCO] - PSO - pareto 个数：34
+2024-03-21 16:35:24 INFO [Test_DPRCO] - --- 第6次大迭代 ---
+2024-03-21 16:35:26 INFO [Test_DPRCO] - DE - pareto 个数：9
+2024-03-21 16:35:26 INFO [Test_DPRCO] - PSO - pareto 个数：24
+2024-03-21 16:35:26 INFO [Test_DPRCO] - --- 第7次大迭代 ---
+2024-03-21 16:35:28 INFO [Test_DPRCO] - DE - pareto 个数：5
+2024-03-21 16:35:29 INFO [Test_DPRCO] - PSO - pareto 个数：29
+2024-03-21 16:35:29 INFO [Test_DPRCO] - --- 第8次大迭代 ---
+2024-03-21 16:35:31 INFO [Test_DPRCO] - DE - pareto 个数：5
+2024-03-21 16:35:31 INFO [Test_DPRCO] - PSO - pareto 个数：23
+2024-03-21 16:35:31 INFO [Test_DPRCO] - --- 第9次大迭代 ---
+2024-03-21 16:35:33 INFO [Test_DPRCO] - DE - pareto 个数：5
+2024-03-21 16:35:33 INFO [Test_DPRCO] - PSO - pareto 个数：31
+2024-03-21 16:35:33 INFO [Test_DPRCO] - --- 第10次大迭代 ---
+2024-03-21 16:35:35 INFO [Test_DPRCO] - DE - pareto 个数：5
+2024-03-21 16:35:35 INFO [Test_DPRCO] - PSO - pareto 个数：25
+2024-03-21 16:35:35 WARN [Test_DPRCO] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.644, Energy avg val: 51.671
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.601, Energy avg val: 48.14
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.797, Energy avg val: 197.146
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.778, Energy avg val: 168.185
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.5, Energy avg val: 23.471
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.502, Energy avg val: 25.211
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.849, Energy avg val: 405.808
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.848, Energy avg val: 405.251
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.85, Energy avg val: 435.502
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.686, Energy avg val: 86.233
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.84, Energy avg val: 281.763
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.817, Energy avg val: 280.827
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.851, Energy avg val: 501.648
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.718, Energy avg val: 118.101
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.693, Energy avg val: 105.907
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.759, Energy avg val: 161.509
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.596, Energy avg val: 38.966
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.662, Energy avg val: 76.763
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.807, Energy avg val: 251.366
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.843, Energy avg val: 318.074
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.481, Energy avg val: 21.743
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.719, Energy avg val: 155.76
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.482, Energy avg val: 22.423
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.847, Energy avg val: 388.951
+2024-03-21 16:35:35 INFO [Test_DPRCO] - USS avg val: 3.572, Energy avg val: 25.649
+2024-03-21 16:36:48 INFO [Test_DPRCO] - 
+
+2024-03-21 16:36:48 ERROR [Test_DPRCO] - ======== test DSPRCOA =========
+2024-03-21 16:36:48 INFO [Test_DPRCO] - taskSizeFromDB: 200
+2024-03-21 16:36:48 INFO [Test_DPRCO] - vehicleSizeFromDB: 50
+2024-03-21 16:36:48 INFO [Test_DPRCO] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-21 16:36:48 INFO [Test_DPRCO] - --- 第1次大迭代 ---
+2024-03-21 16:36:51 INFO [Test_DPRCO] - DE - pareto 个数：5
+2024-03-21 16:36:51 INFO [Test_DPRCO] - PSO - pareto 个数：40
+2024-03-21 16:36:51 INFO [Test_DPRCO] - --- 第2次大迭代 ---
+2024-03-21 16:36:53 INFO [Test_DPRCO] - DE - pareto 个数：4
+2024-03-21 16:36:54 INFO [Test_DPRCO] - PSO - pareto 个数：35
+2024-03-21 16:36:54 INFO [Test_DPRCO] - --- 第3次大迭代 ---
+2024-03-21 16:36:55 INFO [Test_DPRCO] - DE - pareto 个数：7
+2024-03-21 16:36:56 INFO [Test_DPRCO] - PSO - pareto 个数：28
+2024-03-21 16:36:56 INFO [Test_DPRCO] - --- 第4次大迭代 ---
+2024-03-21 16:36:58 INFO [Test_DPRCO] - DE - pareto 个数：5
+2024-03-21 16:36:58 INFO [Test_DPRCO] - PSO - pareto 个数：20
+2024-03-21 16:36:58 INFO [Test_DPRCO] - --- 第5次大迭代 ---
+2024-03-21 16:37:00 INFO [Test_DPRCO] - DE - pareto 个数：11
+2024-03-21 16:37:00 INFO [Test_DPRCO] - PSO - pareto 个数：33
+2024-03-21 16:37:00 WARN [Test_DPRCO] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.898, Energy avg val: 251.922
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.915, Energy avg val: 399.146
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.911, Energy avg val: 343.43
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.697, Energy avg val: 34.264
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.599, Energy avg val: 25.213
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.659, Energy avg val: 30.865
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.678, Energy avg val: 31.245
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.714, Energy avg val: 35.697
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.858, Energy avg val: 108.39
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.679, Energy avg val: 31.771
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.909, Energy avg val: 277.524
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.562, Energy avg val: 24.843
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.658, Energy avg val: 28.722
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.643, Energy avg val: 28.204
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.838, Energy avg val: 100.554
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.766, Energy avg val: 64.899
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.807, Energy avg val: 70.474
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.583, Energy avg val: 24.938
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.818, Energy avg val: 79.052
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.715, Energy avg val: 36.478
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.619, Energy avg val: 25.723
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.886, Energy avg val: 224.116
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.745, Energy avg val: 38.76
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.774, Energy avg val: 68.861
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.873, Energy avg val: 134.407
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.681, Energy avg val: 33.437
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.639, Energy avg val: 26.373
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.916, Energy avg val: 436.054
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.91, Energy avg val: 343.385
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.753, Energy avg val: 56.863
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.603, Energy avg val: 25.437
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.885, Energy avg val: 184.462
+2024-03-21 16:37:00 INFO [Test_DPRCO] - USS avg val: 3.618, Energy avg val: 25.553
+2024-03-21 16:37:00 INFO [Test_DPRCO] - [I@2b9627bc
+2024-03-21 16:37:00 INFO [Test_DPRCO] - [D@65e2dbf3
+2024-03-21 16:37:35 INFO [Test_DPRCO] - 
+
+2024-03-21 16:37:35 ERROR [Test_DPRCO] - ======== test DSPRCOA =========
+2024-03-21 16:37:35 INFO [Test_DPRCO] - taskSizeFromDB: 200
+2024-03-21 16:37:35 INFO [Test_DPRCO] - vehicleSizeFromDB: 50
+2024-03-21 16:37:35 INFO [Test_DPRCO] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-21 16:37:35 INFO [Test_DPRCO] - --- 第1次大迭代 ---
+2024-03-21 16:37:38 INFO [Test_DPRCO] - DE - pareto 个数：2
+2024-03-21 16:37:38 INFO [Test_DPRCO] - PSO - pareto 个数：26
+2024-03-21 16:37:38 INFO [Test_DPRCO] - --- 第2次大迭代 ---
+2024-03-21 16:37:40 INFO [Test_DPRCO] - DE - pareto 个数：6
+2024-03-21 16:37:40 INFO [Test_DPRCO] - PSO - pareto 个数：23
+2024-03-21 16:37:40 INFO [Test_DPRCO] - --- 第3次大迭代 ---
+2024-03-21 16:37:42 INFO [Test_DPRCO] - DE - pareto 个数：8
+2024-03-21 16:37:43 INFO [Test_DPRCO] - PSO - pareto 个数：29
+2024-03-21 16:37:43 INFO [Test_DPRCO] - --- 第4次大迭代 ---
+2024-03-21 16:37:45 INFO [Test_DPRCO] - DE - pareto 个数：11
+2024-03-21 16:37:45 INFO [Test_DPRCO] - PSO - pareto 个数：31
+2024-03-21 16:37:45 INFO [Test_DPRCO] - --- 第5次大迭代 ---
+2024-03-21 16:37:47 INFO [Test_DPRCO] - DE - pareto 个数：6
+2024-03-21 16:37:47 INFO [Test_DPRCO] - PSO - pareto 个数：31
+2024-03-21 16:37:47 WARN [Test_DPRCO] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.869, Energy avg val: 432.863
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.87, Energy avg val: 507.37
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.702, Energy avg val: 57.915
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.641, Energy avg val: 32.237
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.639, Energy avg val: 30.525
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.864, Energy avg val: 312.936
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.819, Energy avg val: 106.098
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.657, Energy avg val: 32.521
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.635, Energy avg val: 27.406
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.623, Energy avg val: 27.086
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.866, Energy avg val: 346.909
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.797, Energy avg val: 102.81
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.714, Energy avg val: 66.782
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.602, Energy avg val: 25.84
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.723, Energy avg val: 75.58
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.659, Energy avg val: 33.425
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.677, Energy avg val: 34.754
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.868, Energy avg val: 365.485
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.863, Energy avg val: 256.101
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.619, Energy avg val: 26.955
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.743, Energy avg val: 78.105
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.709, Energy avg val: 63.231
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.857, Energy avg val: 202.784
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.742, Energy avg val: 75.978
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.598, Energy avg val: 25.674
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.783, Energy avg val: 79.848
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.832, Energy avg val: 146.359
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.838, Energy avg val: 156.659
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.687, Energy avg val: 42.675
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.582, Energy avg val: 23.74
+2024-03-21 16:37:47 INFO [Test_DPRCO] - USS avg val: 3.682, Energy avg val: 38.821
+2024-03-21 16:37:47 INFO [Test_DPRCO] - [-1, -1, 20, -1, -1, -1, -1, -1, -1, -1, -1, 37, -1, -1, 40, -1, -1, -1, -1, -1, 18, -1, -1, -1, -1, -1, -1, -1, -1, 48, -1, -1, -1, -1, -1, -1, -1, -1, 22, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, 30, -1, -1, -1, 27, -1, -1, 43, -1, 13, -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 44, -1, -1, -1, -1, 8, 19, 26, -1, -1, -1, -1, 14, -1, 31, -1, -1, -1, 49, -1, -1, 29, -1, -1, 46, -1, -1, 7, -1, -1, 12, -1, -1, -1, -1, -1, 39, -1, -1, 25, -1, -1, 10, -1, 47, 6, -1, -1, -1, -1, -1, -1, 35, 6, 41, -1, -1, 36, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 17, -1, 15, 24, -1, -1, -1, -1, 42, 50, -1, -1, -1, -1, -1, -1, -1, -1, 33, -1, -1, 4, -1, 2, -1, -1, -1, -1, -1, 9, 23, -1, 28, 3, -1, -1, -1, -1, -1, 6, -1, -1, 34, -1, -1, 11, -1, -1, 45, -1, -1, 21, -1, -1, -1, -1, 32, -1, -1, -1]
+2024-03-21 16:37:47 INFO [Test_DPRCO] - [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]
+2024-03-21 16:41:04 INFO [Test_DPRCO] - 
+
+2024-03-21 16:41:04 ERROR [Test_DPRCO] - ======== test DSPRCOA =========
+2024-03-21 16:41:04 INFO [Test_DPRCO] - taskSizeFromDB: 200
+2024-03-21 16:41:04 INFO [Test_DPRCO] - vehicleSizeFromDB: 50
+2024-03-21 16:41:04 INFO [Test_DPRCO] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-21 16:41:04 INFO [Test_DPRCO] - --- 第1次大迭代 ---
+2024-03-21 21:37:09 INFO [Test_DPRCO] - 
+
+2024-03-21 21:37:09 ERROR [Test_DPRCO] - ======== test DSPRCOA =========
+2024-03-21 21:37:09 INFO [Test_DPRCO] - taskSizeFromDB: 200
+2024-03-21 21:37:09 INFO [Test_DPRCO] - vehicleSizeFromDB: 50
+2024-03-21 21:37:09 INFO [Test_DPRCO] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-21 21:37:09 INFO [Test_DPRCO] - --- 第1次大迭代 ---
+2024-03-21 21:37:12 INFO [Test_DPRCO] - DE - pareto 个数：6
+2024-03-21 21:37:12 INFO [Test_DPRCO] - PSO - pareto 个数：31
+2024-03-21 21:37:12 INFO [Test_DPRCO] - --- 第2次大迭代 ---
+2024-03-21 21:37:15 INFO [Test_DPRCO] - DE - pareto 个数：11
+2024-03-21 21:37:15 INFO [Test_DPRCO] - PSO - pareto 个数：32
+2024-03-21 21:37:15 INFO [Test_DPRCO] - --- 第3次大迭代 ---
+2024-03-21 21:37:18 INFO [Test_DPRCO] - DE - pareto 个数：5
+2024-03-21 21:37:18 INFO [Test_DPRCO] - PSO - pareto 个数：21
+2024-03-21 21:37:18 INFO [Test_DPRCO] - --- 第4次大迭代 ---
+2024-03-21 21:37:20 INFO [Test_DPRCO] - DE - pareto 个数：5
+2024-03-21 21:37:21 INFO [Test_DPRCO] - PSO - pareto 个数：37
+2024-03-21 21:37:21 INFO [Test_DPRCO] - --- 第5次大迭代 ---
+2024-03-21 21:37:23 INFO [Test_DPRCO] - DE - pareto 个数：12
+2024-03-21 21:37:24 INFO [Test_DPRCO] - PSO - pareto 个数：24
+2024-03-21 21:37:24 WARN [Test_DPRCO] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.867, Energy avg val: 416.988
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.865, Energy avg val: 352.606
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.838, Energy avg val: 232.147
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.663, Energy avg val: 46.1
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.578, Energy avg val: 33.107
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.797, Energy avg val: 114.404
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.742, Energy avg val: 51.605
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.558, Energy avg val: 31.708
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.749, Energy avg val: 60.811
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.863, Energy avg val: 296.535
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.814, Energy avg val: 159.82
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.559, Energy avg val: 32.997
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.664, Energy avg val: 46.148
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.866, Energy avg val: 375.173
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.642, Energy avg val: 39.961
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.802, Energy avg val: 117.049
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.643, Energy avg val: 44.163
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.86, Energy avg val: 294.162
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.869, Energy avg val: 447.698
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.83, Energy avg val: 168.358
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.858, Energy avg val: 268.644
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.62, Energy avg val: 34.512
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.781, Energy avg val: 81.174
+2024-03-21 21:37:24 INFO [Test_DPRCO] - USS avg val: 3.6, Energy avg val: 33.419
+2024-03-21 21:37:24 INFO [Test_DPRCO] - [-1, -1, -1, -1, -1, 9, -1, -1, 44, -1, -1, -1, -1, -1, 39, -1, 11, 0, -1, -1, 46, -1, -1, -1, -1, 10, 40, -1, -1, -1, -1, -1, 31, -1, -1, -1, -1, -1, 23, -1, -1, 27, -1, -1, -1, -1, -1, 16, -1, -1, 15, -1, -1, 41, -1, -1, 30, -1, -1, -1, -1, -1, 42, -1, -1, -1, -1, 21, -1, -1, -1, 48, -1, -1, -1, 45, -1, -1, -1, -1, 43, -1, -1, 12, -1, -1, -1, -1, -1, 45, -1, -1, 33, -1, -1, -1, -1, -1, 36, -1, 24, 50, -1, 28, -1, -1, -1, 20, -1, -1, 14, -1, -1, 10, -1, -1, 32, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 25, -1, -1, 17, -1, -1, -1, -1, -1, -1, -1, 6, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 34, -1, 35, 4, -1, 49, 3, -1, -1, 16, -1, -1, -1, -1, -1, 1, -1, -1, 37, -1, -1, 38, -1, -1, -1, -1, -1, 7, -1, 47, 18, -1, -1, 13, 22, -1, 8, -1, -1, -1, -1, -1, 19, -1, -1]
+2024-03-21 21:37:24 INFO [Test_DPRCO] - [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]
+2024-03-21 21:38:09 INFO [Test_DPRCO] - 
+
+2024-03-21 21:38:09 ERROR [Test_DPRCO] - ======== test DSPRCOA =========
+2024-03-21 21:38:10 INFO [Test_DPRCO] - taskSizeFromDB: 200
+2024-03-21 21:38:10 INFO [Test_DPRCO] - vehicleSizeFromDB: 50
+2024-03-21 21:38:10 INFO [Test_DPRCO] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-21 21:38:10 INFO [Test_DPRCO] - --- 第1次大迭代 ---
+2024-03-21 21:38:13 INFO [Test_DPRCO] - DE - pareto 个数：4
+2024-03-21 21:38:13 INFO [Test_DPRCO] - PSO - pareto 个数：33
+2024-03-21 21:38:13 INFO [Test_DPRCO] - --- 第2次大迭代 ---
+2024-03-21 21:38:15 INFO [Test_DPRCO] - DE - pareto 个数：6
+2024-03-21 21:38:16 INFO [Test_DPRCO] - PSO - pareto 个数：32
+2024-03-21 21:38:16 INFO [Test_DPRCO] - --- 第3次大迭代 ---
+2024-03-21 21:38:18 INFO [Test_DPRCO] - DE - pareto 个数：7
+2024-03-21 21:38:18 INFO [Test_DPRCO] - PSO - pareto 个数：38
+2024-03-21 21:38:18 INFO [Test_DPRCO] - --- 第4次大迭代 ---
+2024-03-21 21:38:21 INFO [Test_DPRCO] - DE - pareto 个数：4
+2024-03-21 21:38:21 INFO [Test_DPRCO] - PSO - pareto 个数：30
+2024-03-21 21:38:21 INFO [Test_DPRCO] - --- 第5次大迭代 ---
+2024-03-21 21:38:24 INFO [Test_DPRCO] - DE - pareto 个数：10
+2024-03-21 21:38:24 INFO [Test_DPRCO] - PSO - pareto 个数：36
+2024-03-21 21:38:24 WARN [Test_DPRCO] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.56, Energy avg val: 26.776
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.54, Energy avg val: 23.621
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.791, Energy avg val: 96.079
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.837, Energy avg val: 222.137
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.842, Energy avg val: 311.205
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.448, Energy avg val: 18.105
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.813, Energy avg val: 136.138
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.554, Energy avg val: 24.372
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.527, Energy avg val: 23.527
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.49, Energy avg val: 19.94
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.449, Energy avg val: 18.119
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.609, Energy avg val: 29.424
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.843, Energy avg val: 314.631
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.644, Energy avg val: 33.354
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.471, Energy avg val: 18.801
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.523, Energy avg val: 20.25
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.468, Energy avg val: 18.348
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.663, Energy avg val: 47.576
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.606, Energy avg val: 27.172
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.736, Energy avg val: 71.859
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.661, Energy avg val: 44.829
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.818, Energy avg val: 176.27
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.809, Energy avg val: 128.272
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.63, Energy avg val: 31.999
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.82, Energy avg val: 187.505
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.835, Energy avg val: 215.306
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.847, Energy avg val: 473.402
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.817, Energy avg val: 153.759
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.846, Energy avg val: 331.894
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.488, Energy avg val: 18.857
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.741, Energy avg val: 89.823
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.815, Energy avg val: 140.437
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.84, Energy avg val: 249.514
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.841, Energy avg val: 270.742
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.542, Energy avg val: 23.834
+2024-03-21 21:38:24 INFO [Test_DPRCO] - USS avg val: 3.726, Energy avg val: 57.575
+2024-03-21 21:38:24 INFO [Test_DPRCO] - [-1, -1, 44, -1, -1, 45, -1, -1, 20, -1, 7, 47, -1, -1, 42, -1, -1, -1, -1, -1, -1, -1, 43, 13, -1, -1, -1, -1, -1, -1, -1, -1, 26, -1, -1, -1, -1, -1, -1, -1, -1, 17, -1, -1, -1, -1, -1, 25, -1, -1, 15, -1, -1, 30, -1, -1, 0, -1, -1, -1, -1, -1, -1, 10, -1, -1, -1, 7, -1, -1, -1, 9, -1, -1, 50, -1, -1, -1, -1, -1, -1, -1, -1, 41, -1, -1, -1, -1, -1, 3, -1, -1, 4, -1, -1, -1, -1, 8, 19, -1, -1, 49, -1, -1, -1, -1, -1, -1, -1, 10, 33, -1, -1, 1, -1, -1, 6, -1, 27, -1, -1, -1, 40, -1, -1, 12, -1, -1, 16, -1, 23, 36, -1, -1, 2, -1, -1, 14, -1, 35, -1, -1, -1, 24, -1, -1, -1, -1, 28, 39, -1, -1, 18, -1, 34, -1, -1, -1, -1, -1, -1, 46, -1, 32, -1, -1, -1, -1, -1, -1, 48, -1, -1, 38, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 11, -1, -1, 21, -1, -1, -1, 37, -1, -1, -1, -1, 27, -1, 31]
+2024-03-21 21:38:24 INFO [Test_DPRCO] - [0.5, 0.9, 0.05, 0.45, 0.18, 0.72, 0.42, 0.62, 0.7, 0.07, 0.56, 0.79, 0.38, 0.49, 0.36, 0.37, 0.08, 0.36, 0.24, 0.73, 0.22, 0.93, 0.58, 0.04, 0.93, 0.05, 0.31, 0.05, 0.7, 0.81, 0.87, 0.02, 0.84, 0.49, 0.09, 0.79, 0.68, 0.81, 0.33, 0.8, 0.61, 0.98, 0.85, 0.22, 0.72, 0.78, 0.53, 0.65, 0.74, 0.82, 0.38, 0.78, 0.43, 0.3, 0.25, 0.07, 0.59, 0.47, 0.62, 0.01, 0.27, 0.55, 0.48, 0.4, 0.97, 0.38, 0.9, 0.49, 0.26, 0.2, 0.32, 0.99, 0.41, 0.94, 0.75, 0.91, 0.12, 0.44, 0.01, 0.54, 0.27, 0.59, 0.29, 0.11, 0.7, 0.84, 0.34, 0.59, 0.3, 0.56, 0.67, 0.47, 0.52, 0.11, 0.38, 0.74, 0.05, 0.1, 0.23, 0.05, 0.53, 0.91, 0.88, 0.32, 0.12, 0.73, 0.88, 0.41, 0.97, 0.93, 0.51, 0.22, 0.44, 0.17, 0.62, 0.91, 0.71, 0.01, 0.29, 0.12, 0.4, 0.86, 0.76, 0.86, 0.15, 0.77, 0.47, 0.98, 0.6, 0.63, 0.91, 0.78, 0.42, 0.4, 0.21, 0.63, 0.68, 0.92, 0.59, 0.97, 0.43, 0.77, 0.65, 0.36, 0.0, 0.39, 0.9, 0.95, 0.45, 0.1, 0.59, 0.37, 0.29, 0.66, 0.15, 0.07, 0.45, 0.52, 0.02, 0.19, 0.94, 0.7, 0.69, 0.65, 0.49, 0.42, 0.13, 0.59, 0.96, 0.15, 0.46, 0.21, 0.77, 0.49, 0.06, 0.85, 0.37, 0.66, 0.51, 0.81, 0.07, 0.56, 0.94, 0.09, 0.02, 0.9, 0.88, 0.76, 0.13, 0.12, 0.5, 0.29, 0.42, 0.29, 0.69, 0.69, 0.04, 0.12, 0.14, 0.63]
+2024-03-21 21:39:22 INFO [Test_DPRCO] - 
+
+2024-03-21 21:39:22 ERROR [Test_DPRCO] - ======== test DSPRCOA =========
+2024-03-21 21:39:22 INFO [Test_DPRCO] - taskSizeFromDB: 200
+2024-03-21 21:39:22 INFO [Test_DPRCO] - vehicleSizeFromDB: 50
+2024-03-21 21:39:22 INFO [Test_DPRCO] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-21 21:39:22 INFO [Test_DPRCO] - --- 第1次大迭代 ---
+2024-03-21 21:39:25 INFO [Test_DPRCO] - DE - pareto 个数：5
+2024-03-21 21:39:26 INFO [Test_DPRCO] - PSO - pareto 个数：37
+2024-03-21 21:39:26 INFO [Test_DPRCO] - --- 第2次大迭代 ---
+2024-03-21 21:39:28 INFO [Test_DPRCO] - DE - pareto 个数：6
+2024-03-21 21:39:28 INFO [Test_DPRCO] - PSO - pareto 个数：23
+2024-03-21 21:39:28 INFO [Test_DPRCO] - --- 第3次大迭代 ---
+2024-03-21 21:39:31 INFO [Test_DPRCO] - DE - pareto 个数：7
+2024-03-21 21:39:31 INFO [Test_DPRCO] - PSO - pareto 个数：34
+2024-03-21 21:39:31 INFO [Test_DPRCO] - --- 第4次大迭代 ---
+2024-03-21 21:39:34 INFO [Test_DPRCO] - DE - pareto 个数：3
+2024-03-21 21:39:34 INFO [Test_DPRCO] - PSO - pareto 个数：34
+2024-03-21 21:39:34 INFO [Test_DPRCO] - --- 第5次大迭代 ---
+2024-03-21 21:39:36 INFO [Test_DPRCO] - DE - pareto 个数：7
+2024-03-21 21:39:36 INFO [Test_DPRCO] - PSO - pareto 个数：28
+2024-03-21 21:39:36 WARN [Test_DPRCO] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.979, Energy avg val: 284.864
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.916, Energy avg val: 87.92
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.878, Energy avg val: 31.678
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.775, Energy avg val: 19.691
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.835, Energy avg val: 22.773
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.821, Energy avg val: 20.339
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.778, Energy avg val: 19.877
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.866, Energy avg val: 29.71
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.902, Energy avg val: 59.439
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.897, Energy avg val: 57.515
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.842, Energy avg val: 26.173
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.93, Energy avg val: 92.3
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.836, Energy avg val: 23.277
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.946, Energy avg val: 119.733
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.695, Energy avg val: 19.36
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.951, Energy avg val: 122.225
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.839, Energy avg val: 24.04
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.907, Energy avg val: 64.513
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.887, Energy avg val: 33.656
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.755, Energy avg val: 19.644
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.977, Energy avg val: 131.063
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.889, Energy avg val: 39.458
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.676, Energy avg val: 19.159
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.896, Energy avg val: 48.099
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.882, Energy avg val: 32.532
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.864, Energy avg val: 26.341
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.892, Energy avg val: 42.68
+2024-03-21 21:39:36 INFO [Test_DPRCO] - USS avg val: 3.888, Energy avg val: 34.198
+2024-03-21 21:39:36 INFO [Test_DPRCO] - [23, 50, 41, 3, 21, 30, 49, 31, 2, 3, 30, 45, 15, 39, 1, 40, 5, 8, 7, 29, 49, 33, 15, 39, 35, 10, 45, 36, 23, 2, 1, 31, 33, 45, 34, 1, 25, 24, 9, 41, 12, 21, 25, 49, 39, 30, 8, 13, 22, 33, 5, 39, 47, 15, 22, 29, 7, 31, 30, 26, 39, 47, 45, 3, 16, 6, 43, 22, 35, 49, 40, 8, 8, 25, 50, 4, 30, 39, 41, 24, 9, 1, 26, 22, 12, 27, 17, 48, 35, 30, 42, 40, 10, 3, 30, 28, 1, 40, 16, 6, 34, 19, 20, 44, 14, 7, 11, 7, 25, 2, 31, 7, 44, 16, 38, 49, 6, 9, 4, 2, 36, 9, 41, 40, 6, 8, 23, 37, 20, 2, 12, 28, 23, 7, 13, 14, 21, 6, 45, 29, 48, 23, 32, 34, 49, 21, 42, 28, 36, 40, 14, 11, 23, 15, 1, 40, 33, 4, 34, 43, 10, 34, 39, 6, 13, 46, 3, 3, 25, 18, 3, 26, 20, 20, 5, 6, 1, 40, 44, 6, 32, 1, 35, 30, 34, 8, 48, 32, 47, 47, 10, 9, 31, 22, 4, 20, 18, 31, 38, 30]
+2024-03-21 21:39:36 INFO [Test_DPRCO] - [0.15, 0.97, 0.91, 0.61, 0.39, 0.65, 0.99, 0.9, 0.53, 0.5, 0.01, 0.86, 0.64, 0.43, 0.49, 0.71, 0.24, 0.8, 0.7, 0.3, 0.97, 0.43, 0.52, 0.14, 0.66, 0.89, 0.88, 0.31, 0.15, 0.84, 0.89, 0.78, 0.56, 0.71, 0.24, 0.82, 0.16, 0.8, 0.21, 0.44, 0.85, 0.18, 0.12, 0.12, 0.69, 0.72, 0.46, 0.92, 0.23, 0.9, 0.76, 0.52, 0.44, 0.71, 0.36, 0.17, 0.92, 0.78, 0.98, 0.86, 0.11, 0.64, 0.14, 0.96, 0.98, 0.04, 0.32, 0.27, 0.78, 0.84, 0.11, 0.27, 0.92, 0.9, 0.26, 0.09, 0.08, 0.81, 0.82, 0.08, 0.79, 0.13, 0.45, 0.99, 0.32, 0.36, 0.47, 0.2, 0.98, 0.72, 0.17, 0.77, 0.83, 0.41, 0.71, 0.76, 0.51, 0.86, 0.99, 0.74, 0.7, 0.07, 0.34, 0.33, 0.48, 0.85, 0.4, 0.69, 0.46, 0.08, 0.58, 0.82, 0.47, 0.42, 0.55, 0.86, 0.27, 0.38, 0.94, 0.09, 0.07, 0.61, 0.66, 0.65, 0.81, 0.97, 0.64, 0.25, 0.81, 0.89, 0.98, 0.37, 0.24, 0.59, 0.76, 0.13, 0.07, 0.77, 0.03, 0.61, 0.19, 0.57, 0.19, 0.25, 0.09, 0.61, 0.85, 0.1, 0.09, 0.62, 0.36, 0.17, 0.22, 0.76, 0.68, 0.41, 0.54, 0.98, 0.71, 0.44, 0.01, 0.38, 0.54, 0.04, 0.58, 0.35, 0.1, 0.17, 0.62, 0.79, 0.38, 0.54, 0.94, 0.76, 0.18, 0.12, 0.9, 0.29, 0.03, 0.32, 0.58, 0.59, 0.72, 0.52, 0.58, 0.61, 0.2, 0.4, 0.85, 0.33, 0.33, 0.21, 0.63, 0.71, 0.64, 0.33, 0.6, 0.57, 0.04, 0.8]
+2024-03-21 21:40:51 INFO [PSOCO_Example] - test part --- PSOCO 
+2024-03-21 21:41:17 INFO [PSOCO_Example] - test part --- PSOCO 
+2024-03-21 21:41:18 INFO [PSOCO_Example] - Finish !
+2024-03-21 21:51:02 INFO [Test_DPRCO] - 
+
+2024-03-21 21:51:02 ERROR [Test_DPRCO] - ======== test DSPRCOA =========
+2024-03-21 21:51:03 INFO [Test_DPRCO] - taskSizeFromDB: 200
+2024-03-21 21:51:03 INFO [Test_DPRCO] - vehicleSizeFromDB: 50
+2024-03-21 21:51:03 INFO [Test_DPRCO] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-21 21:51:03 INFO [Test_DPRCO] - --- 第1次大迭代 ---
+2024-03-21 21:51:03 INFO [Test_DPRCO] - DE - pareto 个数：7
+2024-03-21 21:51:03 INFO [Test_DPRCO] - PSO - pareto 个数：31
+2024-03-21 21:51:03 INFO [Test_DPRCO] - --- 第2次大迭代 ---
+2024-03-21 21:51:06 INFO [Test_DPRCO] - DE - pareto 个数：6
+2024-03-21 21:51:06 INFO [Test_DPRCO] - PSO - pareto 个数：32
+2024-03-21 21:51:06 INFO [Test_DPRCO] - --- 第3次大迭代 ---
+2024-03-21 21:51:09 INFO [Test_DPRCO] - DE - pareto 个数：8
+2024-03-21 21:51:09 INFO [Test_DPRCO] - PSO - pareto 个数：47
+2024-03-21 21:51:09 INFO [Test_DPRCO] - --- 第4次大迭代 ---
+2024-03-21 21:51:11 INFO [Test_DPRCO] - DE - pareto 个数：6
+2024-03-21 21:51:12 INFO [Test_DPRCO] - PSO - pareto 个数：41
+2024-03-21 21:51:12 INFO [Test_DPRCO] - --- 第5次大迭代 ---
+2024-03-21 21:51:14 INFO [Test_DPRCO] - DE - pareto 个数：8
+2024-03-21 21:51:14 INFO [Test_DPRCO] - PSO - pareto 个数：37
+2024-03-21 21:51:14 WARN [Test_DPRCO] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.804, Energy avg val: 258.811
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.808, Energy avg val: 361.883
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.792, Energy avg val: 201.678
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.778, Energy avg val: 174.067
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.399, Energy avg val: 20.565
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.7, Energy avg val: 98.852
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.681, Energy avg val: 65.026
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.59, Energy avg val: 41.72
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.397, Energy avg val: 20.398
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.428, Energy avg val: 20.922
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.745, Energy avg val: 121.18
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.799, Energy avg val: 203.597
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.439, Energy avg val: 21.708
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.636, Energy avg val: 55.956
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.775, Energy avg val: 135.236
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.589, Energy avg val: 37.651
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.694, Energy avg val: 85.097
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.437, Energy avg val: 21.456
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.393, Energy avg val: 19.675
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.769, Energy avg val: 126.461
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.776, Energy avg val: 154.114
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.802, Energy avg val: 207.788
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.519, Energy avg val: 26.448
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.656, Energy avg val: 63.655
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.396, Energy avg val: 20.346
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.771, Energy avg val: 132.284
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.729, Energy avg val: 109.071
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.809, Energy avg val: 412.723
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.807, Energy avg val: 339.588
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.611, Energy avg val: 43.855
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.414, Energy avg val: 20.845
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.528, Energy avg val: 33.079
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.806, Energy avg val: 292.876
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.805, Energy avg val: 279.406
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.643, Energy avg val: 60.755
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.394, Energy avg val: 19.757
+2024-03-21 21:51:14 INFO [Test_DPRCO] - USS avg val: 3.475, Energy avg val: 22.911
+2024-03-21 21:51:14 INFO [Test_DPRCO] - [-1, -1, -1, -1, -1, -1, -1, -1, 41, -1, -1, 23, -1, -1, -1, -1, -1, 44, -1, -1, 2, -1, -1, -1, -1, -1, 18, 14, -1, 48, -1, -1, -1, -1, -1, -1, -1, -1, 13, -1, -1, 28, -1, 3, -1, -1, -1, 42, -1, -1, -1, -1, -1, -1, -1, 16, 0, -1, -1, -1, -1, -1, 9, -1, -1, -1, 36, -1, -1, -1, -1, 32, -1, 10, -1, -1, 34, 50, -1, -1, -1, -1, 4, 39, -1, -1, -1, -1, -1, -1, -1, -1, 17, -1, -1, -1, -1, 30, -1, -1, -1, 35, -1, 43, -1, -1, -1, -1, -1, -1, 11, -1, -1, -1, -1, -1, 40, -1, 37, -1, -1, -1, -1, -1, 20, 33, -1, -1, -1, -1, -1, -1, -1, 1, 38, -1, -1, -1, -1, -1, -1, -1, -1, 27, -1, -1, 46, -1, -1, 19, -1, -1, 25, -1, 6, 22, -1, -1, 31, -1, -1, 8, -1, 26, 7, -1, -1, -1, -1, 49, 24, -1, -1, 45, -1, -1, -1, -1, -1, -1, -1, -1, 12, -1, 15, 47, -1, -1, 29, 21, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+2024-03-21 21:51:14 INFO [Test_DPRCO] - [0.97, 0.09, 0.67, 0.53, 0.33, 0.57, 0.17, 0.04, 0.21, 0.82, 0.94, 0.41, 0.63, 0.25, 0.98, 0.02, 0.18, 0.98, 0.0, 0.41, 0.08, 0.77, 0.3, 0.86, 0.51, 0.77, 0.63, 0.78, 0.07, 0.54, 0.58, 0.67, 0.16, 0.44, 0.38, 0.62, 0.11, 0.95, 0.76, 0.12, 0.27, 0.53, 0.47, 0.77, 0.14, 0.75, 0.96, 0.4, 0.34, 0.51, 0.84, 0.96, 0.58, 0.82, 0.06, 0.7, 0.82, 0.6, 0.49, 0.94, 0.82, 0.38, 0.06, 0.65, 0.42, 0.69, 0.12, 0.84, 0.71, 0.24, 0.98, 0.47, 0.01, 0.33, 0.96, 0.45, 0.41, 0.77, 0.97, 0.88, 0.71, 0.73, 0.7, 0.82, 0.2, 0.1, 0.37, 0.71, 0.79, 0.73, 0.88, 0.97, 0.33, 0.29, 0.08, 0.56, 0.38, 0.73, 0.67, 0.92, 0.73, 0.02, 0.01, 0.03, 0.79, 0.81, 0.04, 0.06, 0.14, 0.38, 0.65, 0.64, 0.12, 0.44, 0.4, 0.09, 0.58, 0.37, 0.98, 0.33, 0.68, 0.2, 0.65, 0.85, 0.29, 0.17, 0.2, 0.61, 0.83, 0.67, 0.3, 0.77, 0.2, 0.51, 0.46, 0.71, 0.99, 0.08, 0.37, 0.79, 0.3, 0.61, 0.62, 0.53, 0.31, 0.72, 0.6, 0.94, 0.74, 0.56, 0.91, 0.85, 0.1, 0.35, 0.86, 0.8, 0.74, 0.33, 0.69, 0.16, 0.42, 0.66, 0.81, 0.74, 0.33, 0.86, 0.65, 0.12, 0.58, 0.26, 0.89, 0.62, 0.69, 0.79, 0.39, 0.67, 0.68, 0.5, 0.53, 0.98, 0.22, 0.87, 0.41, 0.98, 0.83, 0.48, 0.53, 0.95, 0.51, 0.19, 0.61, 0.79, 0.2, 0.57, 0.34, 0.03, 0.48, 0.73, 0.59, 0.85]
+2024-03-21 21:54:55 INFO [Test_DPRCO] - 
+
+2024-03-21 21:54:55 ERROR [Test_DPRCO] - ======== test DSPRCOA =========
+2024-03-21 21:54:55 INFO [Test_DPRCO] - taskSizeFromDB: 200
+2024-03-21 21:54:55 INFO [Test_DPRCO] - vehicleSizeFromDB: 50
+2024-03-21 21:54:55 INFO [Test_DPRCO] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-21 21:54:55 INFO [Test_DPRCO] - --- 第1次大迭代 ---
+2024-03-21 21:54:56 INFO [Test_DPRCO] - DE - pareto 个数：8
+2024-03-21 21:54:56 INFO [Test_DPRCO] - PSO - pareto 个数：24
+2024-03-21 21:54:56 INFO [Test_DPRCO] - --- 第2次大迭代 ---
+2024-03-21 21:54:59 INFO [Test_DPRCO] - DE - pareto 个数：4
+2024-03-21 21:54:59 INFO [Test_DPRCO] - PSO - pareto 个数：31
+2024-03-21 21:54:59 INFO [Test_DPRCO] - --- 第3次大迭代 ---
+2024-03-21 21:55:02 INFO [Test_DPRCO] - DE - pareto 个数：5
+2024-03-21 21:55:02 INFO [Test_DPRCO] - PSO - pareto 个数：38
+2024-03-21 21:55:02 INFO [Test_DPRCO] - --- 第4次大迭代 ---
+2024-03-21 21:55:05 INFO [Test_DPRCO] - DE - pareto 个数：6
+2024-03-21 21:55:05 INFO [Test_DPRCO] - PSO - pareto 个数：40
+2024-03-21 21:55:05 INFO [Test_DPRCO] - --- 第5次大迭代 ---
+2024-03-21 21:55:07 INFO [Test_DPRCO] - DE - pareto 个数：6
+2024-03-21 21:55:07 INFO [Test_DPRCO] - PSO - pareto 个数：43
+2024-03-21 21:55:07 WARN [Test_DPRCO] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.833, Energy avg val: 199.295
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.753, Energy avg val: 101.203
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.83, Energy avg val: 161.805
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.678, Energy avg val: 66.174
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.809, Energy avg val: 142.102
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.786, Energy avg val: 134.526
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.755, Energy avg val: 101.763
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.717, Energy avg val: 91.104
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.487, Energy avg val: 24.667
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.469, Energy avg val: 21.55
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.831, Energy avg val: 195.919
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.458, Energy avg val: 20.811
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.44, Energy avg val: 18.277
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.785, Energy avg val: 105.633
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.787, Energy avg val: 139.423
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.695, Energy avg val: 73.43
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.423, Energy avg val: 18.112
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.501, Energy avg val: 24.809
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.381, Energy avg val: 17.47
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.842, Energy avg val: 201.687
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.549, Energy avg val: 29.456
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.402, Energy avg val: 17.584
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.401, Energy avg val: 17.472
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.662, Energy avg val: 47.745
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.576, Energy avg val: 34.913
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.447, Energy avg val: 19.417
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.653, Energy avg val: 45.977
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.441, Energy avg val: 19.291
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.85, Energy avg val: 439.593
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.702, Energy avg val: 83.43
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.849, Energy avg val: 361.115
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.421, Energy avg val: 18.09
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.502, Energy avg val: 25.71
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.845, Energy avg val: 263.357
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.537, Energy avg val: 26.756
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.42, Energy avg val: 17.98
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.848, Energy avg val: 313.193
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.739, Energy avg val: 93.938
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.847, Energy avg val: 291.341
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.578, Energy avg val: 37.845
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.596, Energy avg val: 41.124
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.511, Energy avg val: 25.997
+2024-03-21 21:55:07 INFO [Test_DPRCO] - USS avg val: 3.713, Energy avg val: 91.102
+2024-03-21 21:55:07 INFO [Test_DPRCO] - [-1, -1, 34, 10, 25, 19, -1, 11, 40, -1, -1, 34, 3, -1, 43, -1, 7, 8, -1, 11, 28, -1, 38, 48, -1, 6, -1, -1, -1, 47, -1, -1, 15, -1, -1, -1, -1, 50, 25, -1, 18, 9, -1, -1, -1, 18, -1, 23, -1, -1, -1, -1, 45, 0, 38, -1, 18, -1, -1, -1, -1, -1, 8, -1, 36, 49, -1, 41, -1, -1, -1, 20, 18, -1, 1, -1, -1, 24, -1, 12, 24, -1, 37, 25, -1, 32, -1, -1, 17, 30, -1, -1, 46, -1, -1, -1, -1, 16, 22, -1, 33, 42, -1, 23, 49, -1, -1, 25, -1, 31, 13, -1, -1, 41, -1, -1, -1, -1, -1, -1, -1, -1, -1, 20, -1, 4, 10, -1, 38, -1, -1, -1, 2, -1, 26, -1, 23, 11, -1, -1, 15, -1, -1, 42, -1, -1, 32, -1, -1, 10, -1, -1, 14, -1, 6, -1, -1, 3, -1, -1, 44, 19, -1, 17, 35, -1, 7, -1, -1, 48, -1, -1, -1, -1, -1, -1, 21, -1, 45, 27, -1, -1, -1, -1, -1, 19, 33, -1, 27, 36, -1, -1, -1, -1, 29, 33, -1, -1, 36, -1]
+2024-03-21 21:55:07 INFO [Test_DPRCO] - [0.59, 0.28, 0.35, 0.02, 0.46, 0.3, 0.15, 0.14, 0.87, 0.07, 0.68, 0.72, 0.73, 0.14, 0.51, 0.14, 0.96, 0.18, 0.26, 0.17, 0.24, 0.52, 0.42, 0.79, 0.09, 0.03, 0.93, 0.7, 0.62, 0.9, 0.15, 0.57, 0.01, 0.8, 0.71, 0.14, 0.62, 0.91, 0.59, 0.92, 0.95, 0.92, 0.77, 0.54, 0.14, 0.87, 0.5, 0.12, 0.34, 0.66, 0.43, 0.14, 0.69, 0.09, 0.63, 0.32, 0.93, 0.29, 0.47, 0.86, 0.47, 0.81, 0.22, 0.05, 0.75, 0.53, 0.06, 0.29, 0.91, 0.03, 0.76, 0.32, 0.11, 0.0, 0.31, 0.93, 0.74, 0.54, 0.93, 0.25, 0.89, 0.51, 0.59, 0.66, 0.11, 0.73, 0.57, 0.34, 0.72, 0.15, 0.7, 0.57, 0.42, 0.96, 0.02, 0.5, 0.61, 0.77, 0.33, 0.77, 0.91, 0.17, 0.48, 0.66, 0.38, 0.68, 0.6, 0.96, 0.05, 0.94, 0.35, 0.09, 0.07, 0.82, 0.31, 0.52, 0.04, 0.82, 0.84, 0.59, 0.04, 0.58, 0.66, 0.98, 0.19, 0.62, 0.77, 0.49, 0.88, 0.98, 0.11, 0.23, 0.73, 0.77, 0.06, 0.81, 0.84, 0.1, 0.83, 0.36, 0.77, 0.43, 0.64, 0.89, 0.08, 0.18, 0.39, 0.84, 0.72, 0.82, 0.21, 0.98, 0.92, 0.1, 0.03, 0.87, 0.13, 0.45, 0.16, 0.51, 0.42, 0.97, 0.32, 0.48, 0.37, 0.6, 0.29, 0.79, 0.53, 0.43, 0.48, 0.4, 0.54, 0.84, 0.48, 0.65, 0.45, 0.12, 0.26, 0.4, 0.26, 0.08, 0.23, 0.88, 0.23, 0.75, 0.86, 0.78, 0.04, 0.99, 0.53, 0.38, 0.23, 0.11, 0.88, 0.43, 0.76, 0.21, 0.76, 0.81]
+2024-03-21 21:55:33 INFO [Test_DPRCO] - 
+
+2024-03-21 21:55:33 ERROR [Test_DPRCO] - ======== test DSPRCOA =========
+2024-03-21 21:55:33 INFO [Test_DPRCO] - taskSizeFromDB: 200
+2024-03-21 21:55:33 INFO [Test_DPRCO] - vehicleSizeFromDB: 50
+2024-03-21 21:55:33 INFO [Test_DPRCO] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-21 21:55:33 INFO [Test_DPRCO] - --- 第1次大迭代 ---
+2024-03-21 21:55:36 INFO [Test_DPRCO] - DE - pareto 个数：4
+2024-03-21 21:55:37 INFO [Test_DPRCO] - PSO - pareto 个数：45
+2024-03-21 21:55:37 INFO [Test_DPRCO] - --- 第2次大迭代 ---
+2024-03-21 21:55:39 INFO [Test_DPRCO] - DE - pareto 个数：7
+2024-03-21 21:55:39 INFO [Test_DPRCO] - PSO - pareto 个数：27
+2024-03-21 21:55:39 INFO [Test_DPRCO] - --- 第3次大迭代 ---
+2024-03-21 21:55:42 INFO [Test_DPRCO] - DE - pareto 个数：4
+2024-03-21 21:55:42 INFO [Test_DPRCO] - PSO - pareto 个数：32
+2024-03-21 21:55:42 INFO [Test_DPRCO] - --- 第4次大迭代 ---
+2024-03-21 21:55:45 INFO [Test_DPRCO] - DE - pareto 个数：6
+2024-03-21 21:55:45 INFO [Test_DPRCO] - PSO - pareto 个数：41
+2024-03-21 21:55:45 INFO [Test_DPRCO] - --- 第5次大迭代 ---
+2024-03-21 21:55:47 INFO [Test_DPRCO] - DE - pareto 个数：11
+2024-03-21 21:55:47 INFO [Test_DPRCO] - PSO - pareto 个数：31
+2024-03-21 21:55:47 WARN [Test_DPRCO] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.869, Energy avg val: 296.615
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.87, Energy avg val: 347.765
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.873, Energy avg val: 475.85
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.843, Energy avg val: 191.496
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.472, Energy avg val: 18.365
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.55, Energy avg val: 21.513
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.492, Energy avg val: 18.828
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.491, Energy avg val: 18.553
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.57, Energy avg val: 24.006
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.842, Energy avg val: 152.74
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.515, Energy avg val: 20.701
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.589, Energy avg val: 25.522
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.633, Energy avg val: 35.257
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.595, Energy avg val: 26.17
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.511, Energy avg val: 18.943
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.63, Energy avg val: 34.678
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.653, Energy avg val: 36.14
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.834, Energy avg val: 92.769
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.47, Energy avg val: 18.054
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.694, Energy avg val: 37.811
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.751, Energy avg val: 56.214
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.867, Energy avg val: 203.303
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.756, Energy avg val: 73.504
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.703, Energy avg val: 54.88
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.581, Energy avg val: 25.278
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.695, Energy avg val: 39.067
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.759, Energy avg val: 80.612
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.872, Energy avg val: 388.78
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.49, Energy avg val: 18.538
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.621, Energy avg val: 27.417
+2024-03-21 21:55:47 INFO [Test_DPRCO] - USS avg val: 3.551, Energy avg val: 23.173
+2024-03-21 21:55:47 INFO [Test_DPRCO] - [-1, -1, 36, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 25, -1, -1, 31, -1, -1, 37, -1, -1, -1, -1, -1, 16, -1, -1, -1, -1, -1, -1, -1, -1, 15, -1, -1, -1, -1, -1, -1, 48, -1, 18, -1, -1, 7, -1, -1, -1, -1, -1, 0, -1, -1, 11, 43, -1, 22, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 23, 38, -1, -1, -1, -1, 9, -1, -1, -1, -1, -1, 49, 4, -1, -1, 27, -1, -1, -1, -1, -1, 34, -1, -1, -1, -1, -1, 21, -1, -1, -1, -1, -1, -1, -1, -1, 30, -1, -1, 28, -1, -1, 6, -1, -1, 35, -1, -1, 46, -1, -1, 33, -1, -1, 41, -1, -1, 42, -1, -1, -1, -1, -1, -1, -1, 40, 10, -1, -1, 44, -1, 8, 17, -1, -1, -1, -1, -1, 24, -1, 20, 39, -1, -1, -1, -1, -1, 45, -1, -1, 13, -1, -1, 12, -1, -1, -1, -1, -1, 19, 26, -1, 50, -1, -1, 3, -1, -1, -1, -1, -1, -1, -1, -1, 14, -1, 32, 2, -1, -1, 29, -1, -1, -1, -1, 47, -1, -1, -1]
+2024-03-21 21:55:47 INFO [Test_DPRCO] - [0.12, 0.63, 0.77, 0.25, 0.56, 0.83, 0.39, 0.02, 0.07, 0.01, 0.37, 0.57, 0.59, 0.69, 0.57, 0.8, 0.71, 0.74, 0.3, 0.95, 0.31, 0.24, 0.54, 0.72, 0.31, 0.82, 0.55, 0.06, 0.24, 0.3, 0.94, 0.24, 0.7, 0.07, 0.75, 0.55, 0.52, 1.0, 0.89, 0.54, 0.75, 0.44, 0.24, 0.14, 0.57, 0.11, 0.28, 0.7, 0.79, 0.02, 0.27, 0.48, 0.01, 0.76, 0.46, 0.88, 0.16, 0.09, 0.16, 0.78, 0.73, 0.16, 0.39, 0.28, 0.88, 0.45, 0.04, 0.52, 0.15, 0.46, 0.22, 0.26, 0.17, 0.66, 0.3, 0.72, 0.95, 0.07, 0.4, 0.05, 0.98, 0.93, 0.81, 0.05, 0.56, 0.23, 0.39, 0.12, 0.25, 0.89, 0.27, 0.24, 0.15, 0.01, 0.59, 0.43, 0.54, 0.84, 0.45, 0.69, 0.18, 0.96, 0.56, 0.13, 0.92, 0.51, 0.33, 0.3, 0.45, 0.86, 0.53, 0.2, 0.06, 0.12, 0.53, 0.32, 0.73, 0.68, 0.72, 0.81, 0.61, 0.03, 0.37, 0.03, 0.7, 0.16, 0.15, 0.16, 0.55, 0.43, 0.81, 0.29, 0.02, 0.88, 0.44, 0.58, 0.99, 0.74, 0.09, 0.43, 0.91, 0.7, 0.72, 0.35, 0.28, 0.15, 0.7, 0.87, 0.2, 0.16, 0.54, 0.88, 0.22, 0.32, 0.26, 0.56, 0.18, 0.34, 0.56, 1.0, 0.58, 0.33, 0.53, 0.5, 0.56, 0.94, 0.8, 0.88, 0.91, 0.03, 0.39, 0.01, 0.1, 0.12, 0.04, 0.28, 0.93, 0.29, 0.47, 0.21, 0.24, 0.79, 0.51, 0.09, 0.19, 0.5, 0.67, 0.13, 0.04, 0.23, 0.53, 0.36, 0.17, 0.34, 0.55, 0.64, 0.95, 0.94, 0.03, 0.75]
+2024-03-21 21:58:08 INFO [Test_DPRCO] - 
+
+2024-03-21 21:58:08 ERROR [Test_DPRCO] - ======== test DSPRCOA =========
+2024-03-21 21:58:08 INFO [Test_DPRCO] - taskSizeFromDB: 200
+2024-03-21 21:58:08 INFO [Test_DPRCO] - vehicleSizeFromDB: 50
+2024-03-21 21:58:08 INFO [Test_DPRCO] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-21 21:58:08 INFO [Test_DPRCO] - --- 第1次大迭代 ---
+2024-03-21 21:58:09 INFO [Test_DPRCO] - DE - pareto 个数：9
+2024-03-21 21:58:09 INFO [Test_DPRCO] - PSO - pareto 个数：31
+2024-03-21 21:58:09 INFO [Test_DPRCO] - --- 第2次大迭代 ---
+2024-03-21 21:58:12 INFO [Test_DPRCO] - DE - pareto 个数：8
+2024-03-21 21:58:12 INFO [Test_DPRCO] - PSO - pareto 个数：39
+2024-03-21 21:58:12 INFO [Test_DPRCO] - --- 第3次大迭代 ---
+2024-03-21 21:58:15 INFO [Test_DPRCO] - DE - pareto 个数：6
+2024-03-21 21:58:15 INFO [Test_DPRCO] - PSO - pareto 个数：30
+2024-03-21 21:58:15 INFO [Test_DPRCO] - --- 第4次大迭代 ---
+2024-03-21 21:58:17 INFO [Test_DPRCO] - DE - pareto 个数：9
+2024-03-21 21:58:17 INFO [Test_DPRCO] - PSO - pareto 个数：27
+2024-03-21 21:58:17 INFO [Test_DPRCO] - --- 第5次大迭代 ---
+2024-03-21 21:58:20 INFO [Test_DPRCO] - DE - pareto 个数：3
+2024-03-21 21:58:20 INFO [Test_DPRCO] - PSO - pareto 个数：30
+2024-03-21 21:58:20 WARN [Test_DPRCO] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.813, Energy avg val: 411.35
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.812, Energy avg val: 352.98
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.551, Energy avg val: 26.727
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.462, Energy avg val: 21.186
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.46, Energy avg val: 20.362
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.65, Energy avg val: 45.3
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.442, Energy avg val: 19.638
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.805, Energy avg val: 161.109
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.714, Energy avg val: 63.848
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.803, Energy avg val: 158.645
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.443, Energy avg val: 20.135
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.808, Energy avg val: 183.345
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.565, Energy avg val: 30.133
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.697, Energy avg val: 62.681
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.606, Energy avg val: 32.578
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.771, Energy avg val: 87.905
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.809, Energy avg val: 211.241
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.646, Energy avg val: 34.969
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.779, Energy avg val: 101.294
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.795, Energy avg val: 109.415
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.8, Energy avg val: 153.932
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.444, Energy avg val: 20.313
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.507, Energy avg val: 21.713
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.751, Energy avg val: 70.445
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.74, Energy avg val: 67.86
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.482, Energy avg val: 21.238
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.653, Energy avg val: 59.841
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.543, Energy avg val: 24.456
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.811, Energy avg val: 287.156
+2024-03-21 21:58:20 INFO [Test_DPRCO] - USS avg val: 3.422, Energy avg val: 19.22
+2024-03-21 21:58:20 INFO [Test_DPRCO] - [-1, -1, 31, -1, -1, 45, -1, -1, 30, -1, -1, 11, -1, -1, 8, -1, -1, 6, -1, -1, 15, -1, -1, -1, -1, -1, 32, -1, -1, -1, -1, 7, 1, -1, -1, -1, -1, -1, 14, 50, -1, 21, -1, -1, -1, -1, -1, 27, -1, 24, -1, -1, -1, 18, -1, -1, 20, -1, -1, -1, -1, 33, 17, -1, -1, -1, -1, -1, -1, 44, -1, 2, -1, -1, 23, -1, -1, 19, -1, -1, -1, -1, -1, -1, -1, 25, -1, -1, -1, 42, -1, -1, 43, -1, -1, -1, -1, 49, -1, -1, -1, 4, 47, 34, -1, -1, -1, 29, -1, -1, 48, -1, -1, 40, -1, -1, -1, -1, 10, 9, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 46, -1, -1, 35, -1, 36, -1, -1, -1, 28, -1, -1, -1, -1, 38, 0, -1, -1, -1, -1, 13, 22, -1, -1, -1, -1, -1, 12, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 37, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 7, 16, -1, -1, 39, -1, -1, 26, -1, -1, -1, -1, -1, 3, -1, -1]
+2024-03-21 21:58:20 INFO [Test_DPRCO] - [0.86, 0.84, 0.0, 0.63, 0.35, 0.9, 0.46, 0.99, 0.58, 0.99, 0.13, 0.33, 0.4, 0.96, 0.93, 0.38, 0.59, 0.14, 0.37, 0.08, 0.43, 0.17, 0.51, 0.54, 0.01, 0.75, 0.62, 0.23, 0.66, 0.82, 0.46, 0.26, 0.04, 0.78, 0.91, 0.37, 0.79, 0.65, 0.57, 0.71, 0.94, 0.53, 0.56, 0.04, 0.95, 0.68, 0.82, 0.82, 0.71, 0.15, 0.85, 0.63, 0.22, 0.49, 0.35, 0.39, 0.95, 0.4, 0.69, 0.5, 0.35, 0.05, 0.45, 0.85, 0.81, 0.05, 0.24, 0.02, 0.38, 0.9, 0.32, 0.68, 0.18, 0.78, 0.38, 0.47, 0.44, 0.51, 0.73, 0.93, 0.29, 0.4, 0.7, 0.92, 0.08, 0.17, 0.25, 0.19, 0.36, 0.47, 0.24, 0.76, 0.99, 0.86, 0.37, 0.46, 0.25, 0.84, 0.68, 0.39, 0.43, 0.08, 0.09, 0.92, 0.75, 0.56, 0.76, 0.49, 0.02, 0.08, 0.33, 0.56, 0.33, 0.99, 0.98, 0.35, 0.62, 0.04, 0.66, 0.32, 0.64, 0.89, 0.84, 0.35, 0.37, 0.76, 0.16, 0.27, 0.7, 0.18, 0.91, 0.93, 0.65, 0.82, 0.25, 0.22, 0.76, 0.63, 0.51, 0.81, 0.82, 0.35, 0.99, 0.16, 0.06, 0.73, 0.26, 0.61, 0.93, 0.77, 0.51, 0.67, 0.9, 0.91, 0.84, 0.17, 0.76, 0.76, 0.58, 0.32, 0.4, 0.82, 0.41, 0.59, 0.01, 0.65, 0.61, 0.94, 0.14, 0.49, 0.93, 0.94, 0.69, 0.71, 0.23, 0.37, 0.42, 0.79, 0.45, 0.47, 0.86, 0.58, 0.32, 0.64, 0.19, 0.83, 0.52, 0.15, 0.84, 0.61, 0.82, 0.24, 0.14, 0.51, 0.52, 0.39, 0.3, 0.69, 0.25, 0.07]
+2024-03-21 22:00:06 INFO [Test_DPRCO] - 
+
+2024-03-21 22:00:06 ERROR [Test_DPRCO] - ======== test DSPRCOA =========
+2024-03-21 22:00:06 INFO [Test_DPRCO] - taskSizeFromDB: 200
+2024-03-21 22:00:06 INFO [Test_DPRCO] - vehicleSizeFromDB: 50
+2024-03-21 22:00:06 INFO [Test_DPRCO] - Init Freq Remain: 
+[20000, 500, 800, 590, 620, 550, 450, 780, 990, 680, 780, 980, 650, 680, 590, 710, 720, 830, 850, 760, 940, 910, 850, 660, 930, 860, 880, 700, 950, 680, 630, 530, 760, 770, 880, 570, 580, 920, 750, 860, 830, 620, 690, 860, 730, 680, 760, 950, 640, 650, 820, 580]
+2024-03-21 22:00:06 INFO [Test_DPRCO] - --- 第1次大迭代 ---
+2024-03-21 22:00:10 INFO [Test_DPRCO] - DE - pareto 个数：8
+2024-03-21 22:00:10 INFO [Test_DPRCO] - PSO - pareto 个数：31
+2024-03-21 22:00:10 INFO [Test_DPRCO] - --- 第2次大迭代 ---
+2024-03-21 22:00:12 INFO [Test_DPRCO] - DE - pareto 个数：5
+2024-03-21 22:00:12 INFO [Test_DPRCO] - PSO - pareto 个数：35
+2024-03-21 22:00:12 INFO [Test_DPRCO] - --- 第3次大迭代 ---
+2024-03-21 22:00:15 INFO [Test_DPRCO] - DE - pareto 个数：7
+2024-03-21 22:00:15 INFO [Test_DPRCO] - PSO - pareto 个数：43
+2024-03-21 22:00:15 INFO [Test_DPRCO] - --- 第4次大迭代 ---
+2024-03-21 22:00:18 INFO [Test_DPRCO] - DE - pareto 个数：10
+2024-03-21 22:00:18 INFO [Test_DPRCO] - PSO - pareto 个数：42
+2024-03-21 22:00:18 INFO [Test_DPRCO] - --- 第5次大迭代 ---
+2024-03-21 22:00:20 INFO [Test_DPRCO] - DE - pareto 个数：7
+2024-03-21 22:00:21 INFO [Test_DPRCO] - PSO - pareto 个数：35
+2024-03-21 22:00:21 WARN [Test_DPRCO] - ★★★★★ 找到的 Pareto 最优解: ★★★★★
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.861, Energy avg val: 282.716
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.853, Energy avg val: 248.098
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.475, Energy avg val: 19.68
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.566, Energy avg val: 31.197
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.862, Energy avg val: 317.346
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.376, Energy avg val: 17.899
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.542, Energy avg val: 27.952
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.374, Energy avg val: 17.57
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.418, Energy avg val: 18.482
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.482, Energy avg val: 22.648
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.784, Energy avg val: 125.954
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.637, Energy avg val: 45.994
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.375, Energy avg val: 17.607
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.769, Energy avg val: 90.687
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.779, Energy avg val: 119.542
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.867, Energy avg val: 396.678
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.697, Energy avg val: 65.335
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.678, Energy avg val: 52.075
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.457, Energy avg val: 19.641
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.398, Energy avg val: 18.205
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.865, Energy avg val: 346.625
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.396, Energy avg val: 18.023
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.434, Energy avg val: 19.462
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.868, Energy avg val: 457.297
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.849, Energy avg val: 129.289
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.51, Energy avg val: 24.936
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.684, Energy avg val: 52.518
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.419, Energy avg val: 18.852
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.394, Energy avg val: 17.93
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.606, Energy avg val: 37.511
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.415, Energy avg val: 18.408
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.627, Energy avg val: 44.77
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.731, Energy avg val: 84.734
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.86, Energy avg val: 249.496
+2024-03-21 22:00:21 INFO [Test_DPRCO] - USS avg val: 3.518, Energy avg val: 26.973
+2024-03-21 22:00:21 INFO [Test_DPRCO] - [-1, -1, 34, -1, -1, 20, -1, 15, 3, -1, -1, -1, -1, -1, 6, -1, 29, 49, -1, 25, 46, -1, -1, -1, -1, -1, 30, -1, -1, 22, -1, 48, -1, -1, -1, -1, -1, -1, 13, -1, -1, 44, -1, 23, -1, -1, -1, -1, -1, -1, -1, -1, -1, 9, -1, -1, 47, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 17, -1, -1, 16, -1, -1, 19, -1, -1, -1, 18, -1, 45, 38, -1, -1, -1, -1, -1, -1, -1, 28, -1, -1, -1, -1, -1, 35, -1, -1, 37, -1, -1, -1, -1, -1, -1, -1, -1, 31, -1, -1, 43, -1, 2, 11, -1, 26, 4, -1, -1, 40, 12, -1, -1, 7, -1, 41, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 10, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 50, -1, 14, 33, -1, -1, -1, -1, -1, 39, -1, -1, 27, 8, -1, 32, -1, -1, -1, -1, -1, -1, -1, -1, 36, -1, -1, 21, -1, -1, 24, -1, -1, -1, -1, -1, -1, -1, -1]
+2024-03-21 22:00:21 INFO [Test_DPRCO] - [0.96, 0.85, 0.63, 0.7, 0.37, 0.68, 0.46, 0.64, 0.59, 0.72, 0.15, 0.6, 0.88, 0.17, 0.27, 0.88, 0.51, 0.1, 0.66, 0.69, 0.31, 0.65, 0.41, 0.05, 0.28, 0.59, 0.21, 0.64, 0.15, 0.51, 0.23, 0.11, 0.7, 0.72, 0.65, 0.59, 0.4, 0.93, 0.88, 0.69, 0.68, 1.0, 0.47, 0.42, 0.65, 0.46, 0.73, 0.48, 0.88, 0.44, 0.54, 0.24, 0.08, 0.11, 0.79, 0.2, 0.73, 0.31, 0.71, 0.88, 0.41, 0.64, 0.04, 0.88, 0.56, 0.48, 0.62, 0.16, 0.68, 0.46, 0.94, 0.44, 0.42, 0.88, 0.47, 0.28, 0.42, 0.69, 0.66, 0.5, 0.25, 0.7, 0.72, 0.77, 0.27, 0.06, 0.77, 0.1, 0.36, 0.61, 0.22, 0.23, 0.15, 0.48, 0.97, 0.09, 0.06, 0.67, 0.35, 0.08, 0.28, 0.98, 0.39, 0.15, 0.99, 0.24, 0.56, 0.91, 0.16, 0.56, 0.16, 0.51, 0.62, 0.21, 0.83, 0.87, 0.34, 0.61, 0.07, 0.3, 0.2, 0.93, 0.74, 0.33, 0.8, 0.74, 0.06, 0.32, 0.65, 0.68, 0.15, 0.12, 0.4, 0.2, 0.09, 0.1, 0.01, 0.83, 0.08, 0.65, 0.23, 0.54, 0.42, 0.57, 0.65, 0.32, 0.92, 0.77, 0.64, 0.72, 0.67, 0.73, 0.83, 0.6, 0.01, 0.36, 0.13, 0.1, 0.25, 0.18, 0.77, 0.97, 0.97, 0.21, 0.4, 0.39, 0.0, 0.82, 0.55, 0.6, 0.83, 0.26, 0.01, 0.85, 0.79, 0.77, 0.03, 0.23, 0.52, 0.15, 0.16, 0.81, 0.13, 0.68, 0.74, 0.82, 0.24, 0.98, 0.47, 0.23, 0.06, 0.96, 0.55, 0.36, 0.7, 0.8, 0.25, 0.05, 0.29, 0.43]
