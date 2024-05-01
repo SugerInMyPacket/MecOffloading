@@ -43,8 +43,6 @@ public class GA_01 {
         this.geneLength = geneLength;
     }
 
-
-
     /**
      * 初始化种群
      * @param unloadDecisionArr ： 卸载决策数组
