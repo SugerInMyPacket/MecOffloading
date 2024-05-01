@@ -409,7 +409,7 @@ public class TestCompare {
 
         taskSizeFromDB = taskList.size();
         vehicleSizeFromDB = vehicleList.size();
-        log.warn("车辆数目: " + vehicleSizeFromDB + "\n任务数量: " + taskSizeFromDB);
+        log.warn("\n车辆数目: " + vehicleSizeFromDB + "\n任务数量: " + taskSizeFromDB);
 
         int numParticles = 50; // 粒子数量
         int numDimensions = taskSizeFromDB; // 问题的维度，根据实际问题设置

@@ -1,3 +1,4 @@
+import compare.gaco.GACO;
 import compare.psoco.PSOCO;
 import config.InitFrame;
 import config.RevisePolicy;
@@ -121,6 +122,70 @@ public class TestCompare {
         log.warn("energy_avg_list: \n" + energy_avg_list.toString());
 
         // log.info("unload arr: \n" + Arrays.toString(psoco.getParetoFrontPos().get(0)));
+    }
+
+
+    /**
+    * @Data 2024-04-29
+    */
+    @Test
+    public void testGACO_part() {
+        log.info("\n");
+        log.error(" ===> 测试PSOCO算法........");
+        // 初始化
+        InitFrame.initFromDB();
+
+        // 获取任务和资源信息
+        taskList = InitFrame.getTaskList();
+        vehicleList = InitFrame.getVehicleList();
+        rsu = InitFrame.getRSU();
+        cloud = InitFrame.getCloud();
+
+        taskSizeFromDB = taskList.size();
+        vehicleSizeFromDB = vehicleList.size();
+        log.warn("车辆数目: " + vehicleSizeFromDB + "\n任务数量: " + taskSizeFromDB);
+
+        // GA 参数
+        int populationSize = Constants.NUM_CHROMOSOMES; // 种群大小
+        int numGenerations = Constants.NUM_ITERATIONS; // 迭代代数
+        double crossoverRate = 0.8; // 交叉概率
+        double mutationRate = 0.01; // 变异概率
+        int geneLength = taskSizeFromDB; // 染色体长度(维度数)
+        int bound1 = vehicleSizeFromDB;
+        double[][] bounds3 = new double[geneLength][2];  // Local Freq 边界
+        double[][] bounds4 = new double[geneLength][2];  // Remote Freq 边界
+
+        List<Double> uss_avg_list = new ArrayList<>();
+        List<Double> energy_avg_list = new ArrayList<>();
+
+        boolean flag_stop = false;
+        while (!flag_stop) {
+
+            Random random = new Random();
+            for (int i = 0; i < taskSizeFromDB; i++) {
+                // unloadArr.add(taskList.get(i).getVehicleID());
+                unloadArr.add(random.nextInt(vehicleSizeFromDB));
+            }
+
+            GACO gaco = new GACO(populationSize, crossoverRate, mutationRate, geneLength,
+                    bound1, bounds3, bounds4);
+            gaco.optimizeChromosomes(numGenerations);
+
+            int pareto_size = gaco.getParetoFront().size();
+            for (int i = 0; i < pareto_size; i++) {
+                uss_avg_list.add(gaco.getParetoFront().get(i)[0]);
+                energy_avg_list.add(-gaco.getParetoFront().get(i)[1]);
+            }
+
+            log.info("uss_avg_list.size() === " + uss_avg_list.size());
+            if (uss_avg_list.size() >= 200) {
+                flag_stop = true;
+            }
+
+        }
+
+        log.warn("uss_avg_list: \n" + uss_avg_list.toString());
+        log.warn("energy_avg_list: \n" + energy_avg_list.toString());
     }
 
     /**

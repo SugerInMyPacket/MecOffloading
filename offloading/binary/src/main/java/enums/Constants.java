@@ -8,9 +8,9 @@ public class Constants {
 
     // 数据
     public static final String VehicleDB = "vehicle3_50";
-    public static final String TaskDB = "task_500_v50";
+    public static final String TaskDB = "task_200_v50";
 
-    public static final double DATA_SIZE_MULTI_INCREASE = 0.5;
+    public static final double DATA_SIZE_MULTI_INCREASE = 1.0;
 
     // 车辆数
     public static final int VEHICLE_NUMS = 50;
@@ -37,7 +37,7 @@ public class Constants {
     public static final Long POWER_TRANS_VEHICLE = 10000l;
     // public static final Long POWER_TRANS_RSU = 200000l;
     public static final int TRANS_R2C_MULTI_HOP = 10;
-    public static final Long POWER_TRANS_RSU = 20000l;
+    public static final Long POWER_TRANS_RSU = 200000l;
     public static final Long POWER_TRANS_CLOUD = 600000l;
 
     // 噪声功率
@@ -55,8 +55,8 @@ public class Constants {
     public static final double TIME_SLOT_DURATION = 1.0;
 
     // 粒子数量
-    public static final int NUM_PARTICLES = 100;
-    public static final int NUM_CHROMOSOMES = 100;
+    public static final int NUM_PARTICLES = 50;
+    public static final int NUM_CHROMOSOMES = 50;
     public static final int NUM_INDIVIDUALS = 100;
 
     // 优化代数

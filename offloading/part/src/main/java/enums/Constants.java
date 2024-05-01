@@ -5,7 +5,7 @@ public class Constants {
     // public static final String VEHICLE_DB_NAME = " vehicle2_test";
     // public static final String TASK_DB_NAME = " task_test";
     public static final String VEHICLE_DB_NAME = " vehicle3_50";
-    public static final String TASK_DB_NAME = " task_500_v50";
+    public static final String TASK_DB_NAME = " task_200_v50";
     public static final Double DATA_SIZE_MULTI_INCREASE = 1.0;
 
     // 满意度计算阈值
